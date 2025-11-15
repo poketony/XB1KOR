@@ -1,0 +1,134 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+POOL_FIXED,4
+POOL_FIXED,3
+POOL_FIXED,2
+POOL_FIXED,1
+POOL_FIXED,0
+CONST_3
+CONST_1
+CONST_I,7
+PLUGIN,0
+POOL_STR,0
+CONST_1
+PLUGIN,1
+CONST_2
+POOL_STR,1
+CONST_I_W,258
+GET_OC,0
+ST_STATIC,0
+POOL_FIXED,5
+LD_STATIC,0
+SETTER,6
+POOL_FIXED,1
+LD_STATIC,0
+SETTER,7
+POOL_FIXED,4
+LD_STATIC,0
+SETTER,8
+POOL_INT,4
+LD_STATIC,0
+SETTER,9
+POOL_FIXED,6
+CONST_1
+LD_STATIC,0
+SEND,10
+CONST_3
+CONST_1
+LD_STATIC,0
+SEND,11
+CONST_3
+POOL_STR,1
+CONST_I_W,258
+GET_OC,0
+ST_STATIC,0
+POOL_FIXED,5
+LD_STATIC,0
+SETTER,6
+POOL_FIXED,1
+LD_STATIC,0
+SETTER,7
+POOL_FIXED,4
+LD_STATIC,0
+SETTER,8
+POOL_INT,4
+LD_STATIC,0
+SETTER,9
+POOL_FIXED,6
+CONST_1
+LD_STATIC,0
+SEND,10
+CONST_3
+CONST_1
+LD_STATIC,0
+SEND,11
+
+ID Pool:
+Index,Value
+0,_main_
+1,cfs
+2,setMapPreloadArea2
+3,setPopSheet
+4,pc1
+5,unit
+6,x
+7,y
+8,z
+9,dir
+10,walkR
+11,walkIdleTime
+12,user\smj\smj_05
+
+Int Pool:
+Index,Value
+0,0
+1,1
+2,3
+3,2
+4,180
+
+Fixed Pool:
+Index,Value
+0,3.44383e-41
+1,5.73972e-42
+2,4.59177e-41
+3,1.72192e-41
+4,2.29589e-41
+5,0
+6,2.86986e-41
+
+String Pool:
+Index,Value
+0,"poplist0101"
+1,"pc"
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+0,Int,0,0,0,0
+
+Plugin Imports:
+Index,Plugin Name,Function
+0,cfs,setMapPreloadArea2
+1,cfs,setPopSheet
+
+OC Imports:
+Index,Name
+0,unit
+
+System Attribute Pool:
+Index,Name
+0,user\smj\smj_05
+1,
+
+User Attribute Pool:
+Index,Name
+

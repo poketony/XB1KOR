@@ -1,0 +1,58 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+
+FUNC01
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+POOL_STR,0
+CONST_1
+PLUGIN,0
+
+ID Pool:
+Index,Value
+0,_main_
+1,FUNC01
+2,deb
+3,put
+4,scene\t1q
+
+Int Pool:
+Index,Value
+0,0
+
+Fixed Pool:
+Index,Value
+
+String Pool:
+Index,Value
+0,"aaa"
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+
+Plugin Imports:
+Index,Plugin Name,Function
+0,deb,put
+
+OC Imports:
+Index,Name
+
+System Attribute Pool:
+Index,Name
+0,scene\t1q
+1,
+
+User Attribute Pool:
+Index,Name
+

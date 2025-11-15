@@ -1,0 +1,8 @@
+@echo off
+mkdir "bdat_extracted"
+
+for %%f in ("bdat_origin\*.bdat") do (
+    BdatTool.exe exportstrings "%%f" "bdat_extracted\%%~nf.txt"
+)
+
+pause

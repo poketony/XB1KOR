@@ -1,0 +1,16 @@
+폰트 이미지 (bmp) 추출
+1. font.pkb 추출, static.arc에서 font.pkh 추출
+2. quickbms 스크립트로 3.rfn 등의 폰트 파일 추출
+3. 헥스 에디터로 폰트 파일(.rfn) 마지막 주소의 0x08 부분부터 전부 삭제
+->Wii sdk로 추출 가능
+
+폰트 삽입
+1. Wii sdk로 폰트 파일 만듦. 단, 이때 원본 파일 크기를 넘지 않도록 조심
+2. brfna 파일 만든 다음 삭제되었던 0x08 부분을 떼서 붙임
+3. quickbms reimport.bat으로 원본 파일에 만든 폰트 삽입, font.pkb 추출
+4. Wii Scrubber로 font.pkb를 교체
+
+특수 사항 기록표
+타이틀 로고 및 이미지는 menu.pkb/5317.arc에 있다.
+배틀 UI 관련 이미지는  menu.pkb/24062.arc에 있다.
+(시스템 중 가드나 미스 표시에 쓰이도록, brfna 파일이 있다.)

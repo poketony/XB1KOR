@@ -1,0 +1,63 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+CONST_1
+POOL_STR,0
+CONST_I_W,258
+GET_OC,0
+ST_STATIC,0
+LD_STATIC,0
+GETTER,5
+CONST_1
+PLUGIN,0
+
+ID Pool:
+Index,Value
+0,_main_
+1,un
+2,unit
+3,deb
+4,put
+5,bdid
+6,user\ymt\ymt_01
+
+Int Pool:
+Index,Value
+0,0
+1,1
+
+Fixed Pool:
+Index,Value
+
+String Pool:
+Index,Value
+0,"npc"
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+0,Int,0,0,0,0
+
+Plugin Imports:
+Index,Plugin Name,Function
+0,deb,put
+
+OC Imports:
+Index,Name
+0,unit
+
+System Attribute Pool:
+Index,Name
+0,user\ymt\ymt_01
+1,
+
+User Attribute Pool:
+Index,Name
+

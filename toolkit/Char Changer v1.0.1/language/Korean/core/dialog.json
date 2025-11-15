@@ -1,0 +1,192 @@
+﻿{
+	"Content-Type"       : "text/json; charset=UTF-8",
+	"Project-Id-Version" : "[Open Source] VCF Converter",
+
+	"Language Pack information" :
+	{
+		"Language name"      : "한국어",
+		"Translator"         : "KIM DONG HAN",
+		"Last update"        : "2020-10-07 19:07"
+	},
+
+	"JSON validate" : [
+		"https://jsonlint.com/",
+		"https://jsonformatter.curiousconcept.com/"
+	],
+
+	"<msg.replace>":
+	{
+		"msgid"  : "English",
+		"msgstr" : "한국어"
+	},
+
+	"<section>":
+	[
+		"file.dialog",
+		"viewer.dialog",
+		"viewer.message",
+		"viewer.columns",
+		"viewer.menu",
+		"viewer.context.menu",
+		"viewer.menu.help",
+		"language.dialog",
+		"language.columns",
+		"json.dialog",
+		"json.columns",
+		"about.dialog",
+		"quit.dialog"
+	],
+
+	"file.dialog":
+	{
+		"Text Files (*.txt)|*.txt|All Files (*.*)|*.*|"	: "텍스트 파일 (*.txt)|*.txt|모든 파일 (*.*)|*.*|",
+		"Excel Files (*.xls)|*.xls|"					: "Excel 파일 (*.xls)|*.xls|"
+	},
+
+	"viewer.dialog":
+	{
+		"VCF Viewer"						: "VCF 뷰어",
+		"VCF file name (drag and drop) : "	: "VCF 파일 이름 (파일 끌어넣기 지원) : ",
+		"Char Changer"						: "다국어 바꾸기",
+		"Text file name (drag and drop) : "	: "텍스트 파일 이름 (파일 끌어넣기 지원) : ",
+		"Browse..."							: " 찾아보기...",
+
+		"JSON Plug-In file name : "			: "JSON 플러그인 파일 이름 : ",
+		"Select..."							: " 선택...",
+
+		"Search string : "					: "검색 문자열 : ",
+		"Find" 								: " 찾기",
+		"Regular expression (F4)"			: "정규식 (F4)",
+		"Find within (F6)"					: "결과 내 찾기 (F6)",
+		"Reset"								: " 초기화",
+
+		"&Read VCF file"					: " VCF 파일 읽기(&R)",
+		"&Language..."						: " 언어(&L)...",
+		"&Change"							: " 바꾸기(&C)",
+		"&Exit"								: " 종료(&E)"
+	},
+
+	"viewer.message":
+	{
+		"{}Bytes"											: "{}바이트",
+		"{}KB"												: "",
+		"{}MB"												: "",
+		"{}GB"												: "",
+
+		"The VCF file does not exist. : \"{}\""				: "VCF 파일이 없습니다. : \"{}\"",
+		"The Text file does not exist. : \"{}\""			: "텍스트 파일이 없습니다. : \"{}\"",
+		"The JSON plug-in file does not exist. : \"{}\""	: "JSON 플러그인 파일이 없습니다. : \"{}\"",
+		"VCF File is invalid. Aborting. : \"{}\" ({})"		: "텍스트 파일이 잘못되었습니다. 작업을 중단합니다. : \"{}\" ({})",
+		"Cannot read VCF file. : \"{}\""					: "텍스트 파일을 읽을 수 없습니다. : \"{}\"",
+
+		"Read RAW data... ({}s)"							: "원시 데이타를 읽는 중... ({}초)",
+		"Replace RAW data... ({}s)"							: "원시 데이타를 교체 중... ({}초)",
+		"Decoding RAW data... ({}s)"						: "원시 데이타를 디코딩 중... ({}초)",
+		"Converting Unicode text... ({}s)"					: "유니코드 문자열로 바꾸는 중... ({}초)",
+		"The Encoding type is not supported. : \"{}\""		: "인코딩 형식을 지원되지 않습니다. : \"{}\"",
+		"Splitting VCF data... ({}s)"						: "VCF 데이타를 분해 중... ({}초)",
+		"Analyzing VCF data... ({}s)"						: "VCF 데이타를 분석 중... ({}초)",
+
+		"Nothing to search."								: "검색할 내용이 없습니다.",
+		"The regex is not valid. : \"{}\""					: "정규식이 잘못되었습니다. : \"{}\"",
+
+		"Searching... ({}s)"								: "검색 중... ({}초)",
+		"Ready ({}s)"										: "준비 ({}초)",
+		"Sorting by {}. ({}s)"								: "{} 순으로 정렬했습니다. ({}초)",
+		"Ready"												: "준비",
+		" {} / {} items"									: " {} / {} 항목",
+
+		"Apply changes to language. : {}"					: "언어 변경 사항을 적용합니다. : {}",
+
+		"Save as Excel file : \"{}\""						: "Excel 파일로 저장 : \"{}\""
+	},
+
+	"viewer.columns":
+	{
+		"{search by}"			: "검색 조건",
+		"{number}"				: "번호",
+		"Original"				: "원본",
+		"Translate"				: "번역"
+	},
+
+	"viewer.menu":
+	{
+		"&File"					: "파일(&F)",
+		"&Save as Excel..."		: "엑셀 형식으로 저장(&S)...",
+		"E&xit\tCtrl+F4"		: "종료(&X)\tCtrl+F4",
+
+		"&Options"				: "옵션(&O)",
+		"&Languages...\tF10"	: "언어(&L)...\tF10",
+
+		"&Help"					: "도움말(&H)",
+		"&About...\tF1"			: "프로그램 정보(&A)...\tF1"
+	},
+
+	"viewer.context.menu":
+	{
+		"&Display by"					: "표시 기준(&D)",
+		"&Sort by"						: "정렬 기준(&S)",
+		"&Ascending"					: "오름차순(&A)",
+		"&Descending"					: "내림차순(&D)",
+		"D&elete item\tDelete"			: "선택한 항목 삭제(&E)\tDelete",
+		"Display &all\tESC"				: "모두 표시(&A)\tESC"
+	},
+
+	"viewer.menu.help":
+	{
+		"Contains commands for file"			: "파일 명령이 포함되어 있습니다.",
+		"Contains commands for options"			: "옵션 명령이 포함되어 있습니다.",
+		"Contains commands for help"			: "도움말 명령이 포함되어 있습니다.",
+
+		"Save as Excel file"					: "Excel 파일로 저장합니다.",
+		"Quit the application"					: "응용 프로그램을 끝냅니다.",
+		"Select language"						: "언어를 선택합니다.",
+		"About the application"					: "응용 프로그램 정보를 표시합니다."
+	},
+
+	"language.dialog":
+	{
+		"Select language"		: "언어 선택",
+		"&Apply"				: " 적용(&A)",
+		"&Close"				: " 닫기(&C)"
+	},
+
+	"language.columns":
+	{
+		"Language name"			: "언어 이름",
+		"Folder name"			: "폴더 이름",
+		"Translator"			: "번역자",
+		"Last update"			: "마지막 갱신일"
+	},
+
+	"json.dialog":
+	{
+		"Select JSON Plug-In"	: "JSON 플러그인 선택",
+		"&Select"				: " 선택(&S)",
+		"&Close"				: " 닫기(&C)"
+	},
+
+	"json.columns":
+	{
+		"VCF format"			: "VCF 형식",
+		"File name"				: "파일 이름",
+		"Creater"				: "작성자",
+		"Last update"			: "마지막 갱신일"
+	},
+
+	"about.dialog":
+	{
+		"About"						: "프로그램 정보",
+		"VCF Viewer (64-bit)"		: "다국어 바꾸기 (64비트)",
+		"Build version : {}"		: "빌드 버전 : {}",
+		"&Close"					: " 닫기(&C)"
+	},
+
+	"quit.dialog":
+	{
+		"Confirm quit?"						: "종료 확인?",
+		"&Yes"								: " 예(&Y)",
+		"&No"								: " 아니오(&N)",
+		"Are you sure you want to quit?"	: "응용 프로그램을 끝내시겠습니까?"
+	}
+}

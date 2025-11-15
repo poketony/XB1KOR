@@ -1,0 +1,756 @@
+<trust=f:0:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:0:50>ŒÃ”‚ É<n>]Œ«“Rˆ© ö‹ÃˆÜ‹‘ ”‚ ‘ƒ ˆÍç<wait=key><del=this>
+‹ûÖÔŒF ”}‰º ŒÃÔ‘ !<wait=key><del=this>
+<trust=f:1:20>È. Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:1:50>]Œ«“R, ŠS‹^ Óˆõ vö!<wait=key><del=this>
+‰ŒJ. âŽÄ•B ‹“ö Àâ<wait=key><del=this>
+<trust=f:2:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:2:50>cˆ© Ž‘‘MÔ ÞŠÊ ˆÕ ˆ¸‰c<wait=key><p>]Œ«“R, –Œ¶ˆ© ‹^™‰˜?<wait=key><del=this>
+Š. ‘Oˆ© ”{ A ÞŠÊ ˆÍ‹ûŒñ<wait=key><del=this>
+<trust=f:3:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:3:50>‹^œÔ ”sŽ”xŠáŒñ ŠS‹^ ‹^™ˆÜ<n>‰O’E‘  ]Œ«“R?<wait=key><del=this>
+ˆõŒ¾ . ’³Œ«ŠS<wait=key><p>‰Œ\ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:4:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:4:50>bçŒø?<n>]Œ«“R, ŒøŒ«ŠÊ ˆÍçŒø?<wait=key><p>Å~<wait=key><p>Œ¶“Y‹^ ŒøŒ«ˆâöŒø<wait=key><del=this>
+YöÄ A…J CˆâŠ<wait=key><p>‘E‰Œ, € ‰ŒXŽÄŽ?<wait=key><del=this>
+<trust=f:5:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:5:50>”r“c”À”xˆÜ Ôç‰Œ”xˆÍ‹û<wait=key><p>]Œ«“RŠÊ Ôç‰ŒŒ®<n>ç ‹“ö ‘€Š× ŒÃÔŠá<wait=key><del=this>
+é‰› ŒéŒ¶Î!<wait=key><del=this>
+<trust=f:0:20>‰ŒaŠ. Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:0:50>‹ûÖÂ ˆ÷Œ@”‚”xŠÊ Ž‘ŒBÃ<n>ˆ©ŒÀ‹w‘¤ C”xŠ×‰˜<wait=key><del=this>
+T, Te ŽÚŒ¶ç<wait=key><p>‹’ŠÊ ˆÕŽ|Ô‹ûˆõ!<wait=key><del=this>
+<trust=f:6:20>È. Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:6:50>‹ûÖ, ‘d ‹@ ‰CŽÝ”xˆÜc<wait=key><p>uÐ<n>‹ûÖ”z“ƒ TŒ¶ˆâ‰aŠS<wait=key><del=this>
+‰ŒJ‰ŒJ~ Šdˆ©<n>b‘H‹^ ŒøŒ«ŠÊ ŠŠŽ¶Ô‹û ÔˆÍ‘ ?<wait=key><p>b ‰Œa‰Ž ”‚<wait=key><p>‰ŒJŽµ Te ×Ö‹N?<wait=key><del=this>
+<trust=f:7:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:7:50>ŽŠóÏ Š³Ã É! ‹ûÖ<wait=key><p>ŒÃ”xˆõ vÂ ˆÜ c‘ c<n>ØŒõ Ó A ÞÃ ˆÍç<wait=key><del=this>
+<type=think>Åccccc<wait=key><p>uÐ. ‘G”ž ŒøŒ«ˆâö<wait=key><del=this>
+<trust=f:8:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:8:50>’C”xŠ. ‹ûÖ<wait=key><p>Ôç‰ŒŒ® ‹’ŠÊ ˆÏ ‘‰Ž”z ×Ôç<wait=key><del=this>
+’±, AŒ¾’\Œ\ ŒÃ”x‘  Œ¾<wait=key><del=this>
+<trust=f:9:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:9:50>‹ûÖ, Te ŒÃÖ‘  ÓÎŒø~?<wait=key><del=this>
+Î, ÓŠáŒ¾Šá!<n>ŠS ’Gc ŠX bŒw ÀŠÊ ˆÍç?<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:10:50>‹’ˆõc<n>’NÛ‘¤ A ÞˆâŠÈŠm. ‹ûÖ?<wait=key><del=this>
+‰Œ\. YŒyÔ‘ <wait=key><p>ŒéŒ¶Îˆ© ‹^v‘‚ŠáŒñ<n>W‘OCö<wait=key><del=this>
+<trust=f:1:20>‰ŒaŠ. Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:1:50>È. Ž‘‘MÃ ÓŒñ<n>‹^œÃ ‘ƒ A ÞÃ ˆÍç<wait=key><p>‰Œa‘ , ”piŒ­?<wait=key><del=this>
+‰ ŒÃŠóŒwç!<wait=key><del=this>
+<trust=f:6:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:6:50>‰ŒaˆÜ ‰‡ŽÄ<n>’GˆçÔŠS ”xˆõc<wait=key><p>]Œ«“R ”xŠSŒy<n>ŒøâŒEö?<wait=key><del=this>
+‹û, ‹ûÖ!<wait=key><del=this>
+<trust=f:11:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:11:50>]Œ«“RJ ‰G”z ˆÍ‹ûŒñ<n>Šá Ó “ƒ‹N ŒÃÔç<wait=key><del=this>
+T, Te ŽÚŒ¶ç!<wait=key><p>‰ˆÑ ÓÚÀŒñ<n>Šdˆ© ÔŒaˆÜ ˆõŽ§”xˆâö?<wait=key><del=this>
+<trust=f:12:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:12:50>”piŒ­Â bŽŠóŒw<n>Š[Ã ‹fŠÊ ˆÑ ‘jÎ”xŠÊ‰aŠS<wait=key><del=this>
+’³Œ«ŠS‹^<n>‹^v‘Šç ”‚!<wait=key><p>âŽÄ”z Ž‘‘MÃ ‹“ö Àâ<wait=key><del=this>
+<trust=f:13:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:13:50>”piŒ­, Œ¶“Y Ôç‰Œ‹^<n>âŽÄ•B ‹’ˆõ vöŒø?<wait=key><del=this>
+”Ì”Ò, Œ¶“Y Ôç‰ŒŠÊ<n>ŠS‘‰J ”zˆ©”{ ‹¯ ‹“ÃˆÜ<wait=key><del=this>
+<trust=f:14:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:14:50><type=think>Œ¾’© â‰Œ ×’\Œ\<n>‘¢rÀŒwc<wait=key><p>cÔˆÜ ƒŒw ‰ŠŠÏ ˆµ”}Öˆ©<wait=key><del=this>
+<type=think>ŒéŒ¶Îˆ© ’mŠáÀŠÊˆÑc<wait=key><p>Šdˆ© ÔŽ”z ŽÚŒ¶‹û‹^ ”z ˆÑ‰˜?<wait=key><del=this>
+<trust=f:2:20>‰ŒaŠŽ<n>Ôç‰ŒŒ® ‹“ö ÉŽ<wait=key><del=this>
+<trust=f:2:50>×Šä Ôç‰ŒŒ® ‹“ö‹û<n>Šä‡ Æˆ© ”xn ŒÃÀÔE‘{<wait=key><del=this>
+Ô”‚”‰ŠS À‰aŠS. ]Œ«“R<wait=key><p>ÎT“¸ Ôç‰ŒŒ®<n>”z¢ ‹“ö Àâ<wait=key><del=this>
+<trust=f:7:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:7:50>××. ŠSŒF Šä‡Ô ‹“ö ‘ƒˆÜ<wait=key><del=this>
+‰ŒJ. ”z¢ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:11:20>È! Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:11:50>iŽG! ‹Ï ŽÂˆ©n ×Ã<n>‹¸ŒËÀŒjˆõ?!<wait=key><del=this>
+Šdˆ© Š±‰a iŽG]‹@‹û?<wait=key><p>¢ŒJÖ“v ÔŒZ ŽÂˆåÔ‹ûŽµ ŒÃÔç<n>â, ”z¢ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:15:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:15:50><type=think>‰Œa‰aŠS<wait=key><p>^ŸÔ‹ûŠÊ ’²”«ŠÊ ŽÄˆðŒ® ‰a”‰Šáˆõ<n>‘€ö‘ ŠÊ ˆÕŒÀÂ ÎŠ×EŠ<wait=key><del=this>
+Te ŽÚŒ¶ç?<wait=key><p>’³Œ«ŠS‹^ ‰ŒaˆÜ ”{ ˆÍåÎ?<wait=key><del=this>
+<trust=f:16:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:16:50>Šä‡Â ’C”‚Œø<wait=key><p>ˆõw”xŠÊ Ž‘ŒBÃ<n>‰Šr ‘ ŠS’©‘  ÒÎŒø<wait=key><del=this>
+ÔŒZ l‰Œ×AŒx<n>ŽµŒw ‹fˆõ Ž–Îç‘ <wait=key><p>â, ”z¢ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:17:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:17:50><type=think>ÔŒaˆÜ ŽµŒwŒ® ‹fŠÊ ˆÕ<n>‰ˆÜ ƒŒw ”°cÏ ˆµ”}ÔŠá<wait=key><p>”xŠS –Œ¶ ”xÔL“vŠÊc<wait=key><del=this>
+ŠsT ˆõw”{ ˆÕ Cö. ŒéŒ¶Î<wait=key><p>â‰Œ ˆ°‘MJ ŽÞ‘¡”‚‘ ŠÊ ˆÕ<n>‰ˆÜ ˆ©í ‘‰Ž”z ˆÍç<wait=key><del=this>
+<trust=f:3:20>‰ŒaŠ. Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:3:50>’³Œ«ŠS, ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+ˆõŒ¾ . ]Œ«“R<wait=key><p>×Šä Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:8:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:8:50>’³Œ«ŠS‹^ ŒøŒ«ˆâö?<wait=key><p>ŠS‹^ ^ ŒøŒ«ˆâŠä ŒÃÔ‘ <n>‰Œa‰c. ’³Œ«ŠS‹^ ŒøŒ«ŠÊ‰aŠS~!<wait=key><del=this>
+<type=think>‰ŒZ ŽÚŒ¶Œ® ‹“ÀŠ×<n>Œ¾ÅJ ˆÑŒ¶ŠÊˆÑ<wait=key><del=this>
+<trust=f:12:20>È. Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:12:50><type=think>‰[í•B ’¯’C”z ŠóÈÔŠ<wait=key><p>’³Œ«ŠSŠÊ bŒA‰˜c<n>‰[í•B ŽÂB”z ŠÈŠOÔç<wait=key><del=this>
+ˆ±â‰Œ € ‰ŒJ ”piŒ­?<n>â, ”}‰º Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:15:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:15:50>’³Œ«ŠS, Šs‹^ ‹^™ Ž§ˆªÔ‘ ?<wait=key><del=this>
+”Ì”Ò, Šs‹^ Œ¾’Dˆ©‘ åÎ?<wait=key><p>â. ˆðŽÛ ‹“ö Àâ<wait=key><del=this>
+<trust=f:18:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:18:50>Œ¶“Y‹^ ŒøŒ«ˆâöŒø<n>‰ŒXŠ× ’³Œ«ŠS‹^ Ðr”‚Œø<wait=key><del=this>
+‰ŒJ. ˆõŒ¾ <wait=key><p>‰Œ\ ‰ ÏWÃ<n>”WŒX ˆ© Ä‰˜?<wait=key><del=this>
+<trust=f:19:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:19:50>‰ŒJ. ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<type=think>ŒÃ”‚ ÀˆÍ‹ûc‹ûŠ×<wait=key><p>”x‘ ŒÀ ‰ˆÜ ŒéŒ¶ÎÏ ŒÍŒkÔ‘ <wait=key><del=this>
+<trust=f:4:20>‰ŒaŠ. Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:4:50>Sl •Ž‘ Œ¶“Yç!<n>ˆ÷Œ@”‚”xŠÊ Ž‘ŒBÃ ‰Šr ‘ ŠS’©‘  ÒŠ!<wait=key><del=this>
+‰ ŒÃŠóŒwçŒø!<wait=key><p>â, ‹’âŒø<n>”}‰º ‹’âŒø!<wait=key><del=this>
+<trust=f:9:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:9:50>ŠS ’Gc<n>ŒÃŒÀ ‰Œ[w”xˆÜ ”xˆõ<wait=key><p>ˆé‰b Š[”z“ ‹¸Šz‰ŒŠÊ ˆÏ ÎŠ×‘ ?<wait=key><del=this>
+Te ŒÃÃ ”xŠÊ ˆÍçŒø?<wait=key><p>Š±ˆ© ‹¸ŠzˆäŒø?<wait=key><p>ˆÎ‘M Œ¾Œø<n>×Šä Ôç‰ŒŒ® ‹’âŒø<wait=key><del=this>
+<trust=f:13:20>È. Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:13:50>í”xŠ! Œ¶“Y<n>‹^v‘€Œjˆõ?<wait=key><del=this>
+YŒyÔ‘ Œø!<n>Œ¶“YŠÊ •Ž‘çŒø!<wait=key><del=this>
+<trust=f:16:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:16:50>ŠS‹^ ‹’ˆõ v‰c<n>‰O’E‘  Œ¶“Y?<wait=key><del=this>
+•Ž‘v ^ŸÏ ’å‹ûÀçŒø!<wait=key><p>‰‡ ”‚ˆé‹r ˆÍçŒø!<wait=key><del=this>
+<trust=f:18:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:18:50>Œ¶“Y, Ôç‰ŒŒ® ‹“Ã ˆÍŒñ<n>‘¢‘ ”xˆÜ ‹“öç ”‚<wait=key><p>Šá ‹“ö ŠŸˆõ<n>C ‹“Â ’]”x‰Œ C‰Œç?<wait=key><del=this>
+<type=anger>‹çŠF!<wait=key><p>’³Œ«ŠS, ‰ˆÏ i”‚çŒø!<wait=key><del=this>
+<trust=f:20:20>‰ŒJ. ŠS‹^ Óˆõ v‰aŠS<wait=key><del=this>
+<trust=f:20:50>ÀŠál”p Œ¶“YŠÊ<n>nŒ„”{ ŒÀ”z •Ž‘Šá<wait=key><p>YŒj ŒÃˆõ Ôç‰Œ”‚‹^ ‘jŠá<wait=key><del=this>
+Sl ŒéŒ¶ÎçŒø<n>ŠX ç Óˆõ ÞöŒø<wait=key><p>â, ŒÃ”‚ ÉŒø<n>•Ž‘ Œ¶“Yˆ© ‹^v‘ƒˆÜŒø<wait=key><del=this>
+<trust=f:5:20>‰ŒaŠ. Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:5:50>ŒéŒ¶Î ŒÃŠóŒw<n>ÔˆÕŒÀÀŒy Ó‰Œ •F‹‘ˆÑ<wait=key><del=this>
+Sl ‰Œa‰c<wait=key><p>âŽÄ”z Ž‘‘MÃ ‹’ˆõc<n>‹^™‘  ŒÃ‘ Œ® ˆé‘M”‚çˆâ‰aŠS<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. ×Šä ‰ˆÕÖ“v‘ <wait=key><del=this>
+<trust=f:10:50><type=think>ŽŽÄ”xˆÜc‹û<wait=key><p>bŒA‰˜<n>ŒéŒ¶ÎŠÊ ’G ‰ƒA”xŠä ŒÃÔ‘ <wait=key><p>ö‹û?<n>ŠS Ž»Œ¾ ŒéŒ¶ÎŒ®?<wait=key><p>JÔ, ŒÃ‹^ Ð ‹n<n>‰Œ[ Œ¶ˆ© C‘ <wait=key><del=this>
+€ ‰ŒXŠÈŠm?<n>‹ûÖ‹^ âŽÄ•B ‹’ˆõ vÂ ˆÕ ÎŠ×Šm?<wait=key><p>‰dÔ ŠóŠì”{ ”sŽ‰˜‘¢ CŠá<n>ˆðŽÛ”‚Žµ ‹’‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:14:20>È. Ôç‰ŒŠÊ ‰ŠáÅÔç<wait=key><del=this>
+<trust=f:14:50>ŠSŠÊ ‘_~‰‡ Ó ˆÕ ˆ¸Â‹N<wait=key><p>ØŒõ ‰ŒZ ˆÍç<wait=key><del=this>
+<type=think>Å<wait=key><del=this>
+<trust=f:17:20>‰ŒJc<n>nˆî ºÔŠÊ Ôç‰Œ‰c<wait=key><del=this>
+<trust=f:17:50>ŒéŒ¶Î, ŠS‹^ ”}‰º ‹’‹^Œx ”x‘ <wait=key><del=this>
+ˆõŒÇ‰aŠS<wait=key><p>ÎŒ¾ ˆ÷Œ@”z Ž‘‘MÔ<n>ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:19:20>‰ŒaŠ. ŠS‹^ ‹’ˆõ vö<wait=key><del=this>
+<trust=f:19:50>ŒéŒ¶ÎŠÊ ‘FŠï•B ŒÃ”xŠÊ Ž‘ŒBÀŠä<n>”¶p”xˆÜ ŒÃ”xŠÊ Ž‘ŒBÔ ‘j‘ ?<wait=key><del=this>
+T, Te ŽÚŒ¶‘ ?<wait=key><p>‰ˆÕÀŠá‹^ ‘ ‰‡Â<n>ÔâÏ Ôç‰ŒŒ® ‹“Ã ‹¯Šá<wait=key><del=this>
+<trust=f:20:20>Ó Šæ ÔçŒø!<n>ÓÎ‹’ˆÜ Ž»Œõ”‚Œø!<wait=key><del=this>
+<trust=f:20:50>ŒéŒ¶Îˆ© ‹’ŠÊŠáŒñ<n>Œ¶“Y‹^ ”}‰º ‹“ÃˆÜŒø!<wait=key><del=this>
+‘jÎ. ˆðŽÛ”xˆÍ‹û<wait=key><p>Œ¶“Yv Šdˆ© ˆõwÃ ‹“ö ‘ƒ “Š×<wait=key><del=this>
+<trust=f:0:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:0:-50>bç, ]Œ«“R!<n>‹^v‘€âˆõ!<wait=key><del=this>
+‘ ‰‡Â Ð ‹nc uÐ<wait=key><del=this>
+<trust=f:1:-20>ÀÅc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:1:-50>]Œ«“R?! ‹^v‘€â!<wait=key><del=this>
+uÐc<wait=key><del=this>
+<trust=f:2:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:2:-50>€ ‰ŒXŠm ]Œ«“R?<n>‹f‘  ÒÃ ˆÏˆ©?<wait=key><del=this>
+‘tŽã”‚Ž<n>‘ ‰‡Â TŒ¶bŽ<wait=key><del=this>
+<trust=f:3:-20>bc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:3:-50>‹’‰ŒŒÀ ”xŠáŠ×<n>ŠsT”z ˆÍ ÎŠm?<wait=key><del=this>
+Èc uÐ<wait=key><del=this>
+<trust=f:4:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:4:-50>]Œ«“R, Š•”DÂ ‘MÔ ‘‰Ž”‚Œø!<wait=key><p>ˆÍ‘H”xŒñ Ð ‹nŒø!<wait=key><del=this>
+uÐ<wait=key><del=this>
+<trust=f:5:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:5:-50>Ô”‚ŠÊ ˆ©‘ ŒÀc<n>]Œ«“R, ‰ˆÏ çC‹q Ž¹“lÔŠá<wait=key><del=this>
+ŠS‹^ Óˆõ Þö<wait=key><p>”x‘ ŒÀ ‘ ‰‡Â Ð ‹n<wait=key><del=this>
+<trust=f:0:-20>È. ŠáÅ ‰Œ”ÀJc<wait=key><del=this>
+<trust=f:0:-50>iŠË ‘d ÔŽ”‚. ‹ûÖ<wait=key><del=this>
+uÐc<wait=key><del=this>
+<trust=f:6:-20>ÀÅc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:6:-50>‹ûÖÂ Ï†Œw {{ŒÊŠ<wait=key><p>”ô~ b ŠSŒFÂ Ž‰GC‘ ŒÀ<wait=key><del=this>
+’k, uÐ”xˆÜ ‹oö<wait=key><del=this>
+<trust=f:7:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:7:-50>Te ŽÚŒ¶ç?!<n>ŠsŠì‘  Ò‰c<wait=key><del=this>
+b‹ûˆõ ”‚ç ”{‘ c<wait=key><p>uÐ<wait=key><del=this>
+<trust=f:8:-20>bc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:8:-50>‹ûÖ, ‘_‰‡ÔŠSŒ¾<n>‰ŒŠó”‰EŠÊ‹N<wait=key><del=this>
+‰ŒaˆÜ ’mŠáÀ‘  Œ¾<wait=key><p>ÎT“¸ Ð ‹n<n>‘ ‰‡Â ÎT“¸ TŒ¶ç<wait=key><del=this>
+<trust=f:9:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:9:-50>Š[âŠì‘  ÒÎŒø. ‹ûÖ!<wait=key><p>Š[â‹ûŒñ ˆ÷Œ@”‚”xŠÊ Ž‘ŒBÃ<n>Šd Œj ‹€Ž¹ Ð ‹nŒø!<wait=key><del=this>
+ÜÔ V ˆ»‹û‹^ ”{ ŒÃÔ C‰c<n>uÐ”xˆÜ ‹oö<wait=key><del=this>
+<trust=f:10:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:10:-50>€ ‰ŒXŠÈŠm?<wait=key><p>ÏŒ¶v ‘MÔ<n>·×”z í‘J ÎŠ×EŠÈŠm?<wait=key><del=this>
+‘E‰Œ, ‰ˆÏ ‘d r”xåÎc ŒéŒ¶Î<wait=key><del=this>
+<trust=f:1:-20>È. ŠáÅ ‰Œ”ÀJc<wait=key><del=this>
+<trust=f:1:-50>ˆ±â‰Œ € ‰ŒJ?<wait=key><p>Ð ‹^v‘ƒ ˆÍç?<wait=key><del=this>
+uÐ. ‘ ‰‡Â ‘dc<wait=key><del=this>
+<trust=f:6:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:6:-50>bç, ˆ÷Œ@”‚”xŠÊ Ž‘ŒBÃ<n>Šd Œj ‹z ˆÍç?<wait=key><del=this>
+ŠS‹ûˆõ Šá ‹^™ AŠÊ Cö<wait=key><p>ÔŒZ ŠX‹^ ÞŠÊ ˆÍ‘ !<wait=key><del=this>
+<trust=f:11:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:11:-50>Šˆ© ‰ŒaŠáŒñ<n>cˆ© Ô·ˆ© Þˆâ‘ <wait=key><p>”x‘ ŒÀ ÔŠóŒw ‰O’EŠáŠÊ ˆÏ ÎŠ×ç<wait=key><del=this>
+Óˆõ Þö<n>‰È ‹bÎl ˆÍç<wait=key><del=this>
+<trust=f:12:-20>bc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:12:-50>ÔŒZ ÞŒÍ”z ŠóŠìÃ ”xŠáŠ×<n>”piŒ­, Te ˆõwÔ‹û‹^ Þö?<wait=key><del=this>
+ÎŠ×. ‰ŒZ ˆÍ Cö<wait=key><p>uÐ. ‘ ‰‡Â Ð ‹r ˆÕ ˆ¸Î<wait=key><del=this>
+<trust=f:13:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:13:-50>”piŒ­, ˆÍ‘HÂ ‘j‘  ÒÎŒø<wait=key><p>ˆ÷Œ@”‚”xŠÊ Ž‘ŒBÔ f“ã”‚Œø<wait=key><del=this>
+Š ŒÃÔ ŒÊÎ. Œ¶“Y<wait=key><p>”x‘ ŒÀ ‘ ‰‡Â Ð ‹n<wait=key><p>uÐ<wait=key><del=this>
+<trust=f:14:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:14:-50>‘MŒÃ ‰ˆÑŒw ‰O’EÂ ˆÕÔŠm?<n>]Œ«“R‹ûŒñ ö‹ÃˆÜ ”{ ˆÕ ˆ¸ÀŠm?<wait=key><del=this>
+]Œ«“R”xˆ÷ Ž‰GCåÎ!<wait=key><p>Šdˆ© ccŒw ˆé‘M”z ˆÍç<wait=key><del=this>
+<trust=f:2:-20><type=think>Šä‡ Æ<n>A Ž“kˆ© Ð ‘jÀnˆ©?<wait=key><del=this>
+<trust=f:2:-50>Šä‡ Æc<n>ø‘Qˆ© ‹^™ ŠXÔ iˆâ‘{?<wait=key><del=this>
+YŒy. ø‘Qˆ© ‡‹lc<wait=key><del=this>
+<trust=f:7:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:7:-50>Šä‡Â ˆé’â ”B‰Œ”x‘  ÒŠÊ<n>‹¥‹î”xˆõ ˆµ”z Š[â ÎŠ×Eö?<wait=key><del=this>
+ŠS‹^ “ú¦”z Ž‘ŒBJ Ú‰E”‚<n>ŒñŒù C‰c<wait=key><del=this>
+<trust=f:11:-20>ÀÅc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:11:-50>bç ‰ˆÜ!<n>iŽGŠì‘  ÒÎ!<wait=key><del=this>
+‰ŒJc<n>Š ŒÃÔ ŒÊÎ. ”piŒ­<wait=key><p>uÐ”xŠá<wait=key><del=this>
+<trust=f:15:-20>ÔŒ[ Aˆ©c!<wait=key><p>’^”xÏ Šä‡‹^<n>ˆÍ‘H”{ ‹¯ˆ© Þ‰aŠS<wait=key><del=this>
+<trust=f:15:-50>‰Œa‰aŠSc<wait=key><p>‰ŒJ‹^ ‘_‰‡ Ðr”‰ö<n>Šs‹^ “ú¦”z Ž‘ŒBÖ ˆÑ ÓÚÀŠ×‰˜<wait=key><del=this>
+‰ŒaˆÜ ŒÃ”‚ ‘€Š× ˆõŒÇ‰cc<n>ŒñŒù CŠá<wait=key><del=this>
+<trust=f:16:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:16:-50>Šä‡, ŠSŽ… ŠŠŽ¶!<n>ˆÍ‘H”xŒñ Ð ‹nŒø!<wait=key><del=this>
+Te ×Ô‹‘ ˆîŽÞ”‚Ž¹ Ð ‹n<n>Ð ‰ŒJ Œ¶“Y?<wait=key><del=this>
+<trust=f:17:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:17:-50>‘¢rÖ ˆÕÔŠm. Šä‡?<wait=key><p>Šd× Šïí Ô ŽÄˆðˆ©<n>Ž‘‹û‘¤‘ ‹^ ŒøŒ­Šá<wait=key><del=this>
+‰ŒJ<n>Œõr”‚ ‹w‘ . ŒéŒ¶Î<wait=key><del=this>
+<trust=f:3:-20>È. ŠáÅ ‰Œ”ÀJc<wait=key><del=this>
+<trust=f:3:-50>’³Œ«ŠS?!<n>”B‰Œ”xŠÊ ˆÍç?<wait=key><del=this>
+uÐ. ]Œ«“R<wait=key><del=this>
+<trust=f:8:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:8:-50>’³Œ«ŠS, ŠS‹^ ‹^™ˆÜ<n>‰ŒJ‹^ Ð ‹r‰˜?<wait=key><del=this>
+ˆõŒ¾ . ‹ûÖ<wait=key><p>”x‘ ŒÀ ‘ ‰‡Â Ð ‹n<n>•Žµ”‚ ‘Š<wait=key><del=this>
+<trust=f:12:-20>ÀÅc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:12:-50>ˆÍ‘H”xŒjˆõ?!<wait=key><p>Šdˆ© ÎŠÊ ’³Œ«ŠSŠÊc<wait=key><del=this>
+ÎZ‘ ŒÀ<n>‰ˆÏ ’CˆªÔEŠS É<wait=key><p>ŠŠëÔç<wait=key><p>uÐc ”piŒ­<n>‘ ‰‡Â Š³ˆ°Î ‘Š<wait=key><del=this>
+<trust=f:15:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:15:-50>’³Œ«ŠS, Ô ‰Œ”ÀŒ® ŠŸ’©Œñ<n>ŠáÅÂ CÃ‘ ‹^ Œü‹û<wait=key><del=this>
+Óˆõ Þöc<n>‰Œa‘ ŒÀ uÐ”‚c<wait=key><del=this>
+<trust=f:18:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:18:-50>’³Œ«ŠS!<n>‹f‘  ÒŠÊ ˆÏ ‘j‘  ÒÎŒø!<wait=key><del=this>
+Œ¶“Y, Ô”‚”‚ ‘Š<n>‘ ‰‡Â Ð ‹n<wait=key><del=this>
+<trust=f:19:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:19:-50>pŒÉÔ‰aŠS. ’³Œ«ŠS<n>”°cÏ ÖUÂ ˆä– ‰ ‘M‹^Öˆ©?<wait=key><del=this>
+ŒéŒ¶Îc<wait=key><del=this>
+<trust=f:4:-20>È. ŠáÅ ‰Œ”ÀJc<wait=key><del=this>
+<trust=f:4:-50>‹^v‘€â! Œ¶“Y<n>€ TŒ¶‹ûˆõ ”xŠÊ ˆÏ‹N?<wait=key><del=this>
+TŒ¶Ö ˆÏ TŒ¶çŒø!<wait=key><del=this>
+<trust=f:9:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:9:-50>Ž»Œ¾ ¸Ž§ˆª CÔ<n>ŠóŠì”z ˆÍç?<wait=key><p>‰Œ\ Ð ‹p‘ <wait=key><del=this>
+‰, ‰ŒZ ˆÍ ÎŠ×çŒø<wait=key><p>ŠïíÂ TŒ¶‹ûˆõ<n>Ž§ˆª”z ˆÕŽ|ÔçŒø<wait=key><del=this>
+<trust=f:13:-20>bc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:13:-50>ÎZŠ~ Œ¶“Y<wait=key><p>‹^v‘‹ÀŒñ<n>ŽÃ ˆÃ A‹^ ÞEÃ “ƒ‹N<wait=key><del=this>
+Ž?!<wait=key><p>ŽÂ ˆˆõ vöŒø!<n>‰Œ\ ŠS‘‰J Šál ˆ­ ˆÍçŒø<wait=key><del=this>
+<trust=f:16:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:16:-50>TŒ¶Öˆ©c Œ¶“YŠÊ<n>ÔŒZ ŠŠŽ¶Ô ÎŠ×‹ûˆõ Ž§ˆª”‰ŠÊ‹N<wait=key><del=this>
+Ô, ÔŒZ ŠŠŽ¶ ÎŠ×çŒø!<n>”x‘ ŒÀ ‘ ‰‡Â ‘¢‘­Œw TŒ¶çŒø<wait=key><del=this>
+<trust=f:18:-20>‰ŒJ. ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:18:-50>Œ¶“Y, ‹hŒ‹ˆ© ÞŠáŠÊ ˆÑ<n>àÂ ˆÏ ÎŠ×‘ ?<wait=key><p>ZˆÜ ”B‰Œ”xŒñ Ð ‹n<wait=key><del=this>
+”x‘ ŒÀ Sl<n>‘ ‰‡Â TŒ¶çŒø<wait=key><del=this>
+<trust=f:20:-20>Ž‘ŒõÃ ¯”‚c<n>‘ ‰‡Â ö‘Ç A CŠá<wait=key><del=this>
+<trust=f:20:-50>Ö“bÔ‹ûŒñ ˆÍ‘H”x‘  ÒŠÊ ˆÕÔ<n>Œ¶“Y‹ûˆõ Ž§ˆª”‰ŠÊ‹Nc<wait=key><p>Šdˆ© ‰EŠó“úˆ©”z ŒøïÔ‰aŠS<wait=key><del=this>
+•Bß~ ŒéŒ¶Î”z“<n>‰ŒZ ŽÚŒ¶ ‹“ÀŒñ f“ãŒø<wait=key><del=this>
+<trust=f:5:-20>È. ŠáÅ ‰Œ”ÀJc<wait=key><del=this>
+<trust=f:5:-50>ö‘¸Žµ?!<n>”B‰Œ”xŒñ Ð ‹n ŒéŒ¶Î!<wait=key><del=this>
+•Žµ”xˆÍ‹û. ]Œ«“R<n>é‰› Ž§ˆª”‚ Àˆõ v‰aŠS<wait=key><del=this>
+<trust=f:10:-20>b, ÔŒ[ ‹¯‹^ ÞŠÊ ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:10:-50>bç!<n>‰Œ\ Šdˆ© Šón ”{ŒJ<wait=key><del=this>
+Ž‘ŒõÃ ’Cˆª”x‘  ŒÃˆÍ‹û. ‹ûÖ<n>‘ ‰‡Â ‹¯ˆ© ÎŠ×Šá<wait=key><del=this>
+<trust=f:14:-20>ÀÅc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:14:-50>‘ ‰‡Â Ð ‹qŠáŠ×<n>‰Œ\ Šó’e ø‘O ‹pŠÊ‹N?<wait=key><del=this>
+‰ˆÏ ŒøŒ­Šác<n>ø‘Qˆ© –Œ¶‹“Ô •FÃ ˆ¶’’Ã ‹¯ˆâ‘ <wait=key><del=this>
+<trust=f:17:-20>‰ŒJc<n>TŒ¶”{ C Cˆâ‘ <wait=key><del=this>
+<trust=f:17:-50>cŠ ŒÃÔ ŒÊÎ. ŒéŒ¶Î<wait=key><p>”x‘ ŒÀ ‹@ ‘‰Ž”z ˆÕ‹^ Þö<n>Ð ‰ŒJ ŒéŒ¶Î?<wait=key><del=this>
+‰ ŒÃŠóŒwŠá<wait=key><p>”x‘ ŒÀ ‘ ‰‡Â ö‘Ç A C‰aŠS<wait=key><del=this>
+<trust=f:19:-20>bc ö‘Ç A C‘ <wait=key><del=this>
+<trust=f:19:-50>é‰›ŒÀ!<wait=key><p>ˆ÷Œ@”‚ ÀÔŠÊ Ž‘ŒBÃ ŒøŒ­ ’]”xŠáŠ×<n>ÔˆÜ ŒéŒ¶ÎÏ mÔç?<wait=key><del=this>
+‰Œ[ Œ¶ˆ©<n>ŠS‹^ ‹fˆõ vÂ Œ¾ÅÂ ‰e‹Úˆ¸Šá<wait=key><p>”x‘ ŒÀ ‘ ‰‡Â Ž‘ŒõÔ ÞŠá<n>–Œ¶ŠÊ ‰ ×Ã ŠJŠdçŒÀ ”xŠÈŠ×‹û<wait=key><del=this>
+<trust=f:20:-20>ŒÊÎŒø. TŒ¶çŒø<wait=key><del=this>
+<trust=f:20:-50>Ž‘ŒõÂ ‘‰Ž”‚Œø<wait=key><p>”x‘ ŒÀ ŒéŒ¶Î<n>ŠsT ŒÍ‘M”‚Œø<wait=key><del=this>
+‰ŒJ. uÐ”x‰aŠS<wait=key><del=this>
+<trust=f:0:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:0:50>ŠSŒF ]Œ«“Rˆ© ”}‰º‹ûŒñ<n>’^”xT‘FÔ‘ <wait=key><p>Ðr”xˆõ ‰ŒŠáŒj!<wait=key><del=this>
+‰Œ”~ Š€ˆõ ˆ©â. ‹ûÖ!<wait=key><del=this>
+<trust=f:1:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:1:50>]Œ«“R, ‘_r”‚ç ”‚<n>ŠsT TŒ¶”x‘  ŒÃˆõ!<wait=key><del=this>
+‰O’EÎ!<n>”piŒ­Ô ÞÀŠ×‰˜!<wait=key><del=this>
+<trust=f:2:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:2:50>‘jÎ. ]Œ«“R!<n>iŒLŒÀJ ”‚ Ä‰˜!<wait=key><del=this>
+Š!<wait=key><del=this>
+<trust=f:3:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:3:50>‰ŒJ. ’€Ž¹Ã Šá”xâ!<wait=key><p>ˆÎ‘M Œ¾, ˆ©µ˜ Ž’\‘óÂ<n>Šdˆ© ƒŒw Š]ˆÜ ”‚ ‘ƒ “Š×‰˜!<wait=key><del=this>
+ˆõŒ¾ . ’³Œ«ŠS<n>ŠsŒÀ xÃˆÜ!<wait=key><del=this>
+<trust=f:4:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:4:50>]Œ«“Rˆ© Œ¾ÅŒÀ ŒÜÀŒñ<n>‰‡ ŠJŠSŒø!<wait=key><del=this>
+Œ¶“YÏ •F‹^ xˆõ Þö!<wait=key><del=this>
+<trust=f:5:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:5:50>ŠS‹^ ‹fˆâŠá. ]Œ«“R<n>Šd •FÃ Œ¾Å‰· º‹^Œx ”xˆÍ‹û<wait=key><del=this>
+ˆõŒ¾ . ŒéŒ¶Î!<wait=key><del=this>
+<trust=f:0:20>È. ‡‹l ŽÂ‰Cl“Yâ!<wait=key><del=this>
+<trust=f:0:50>ƒŒw ‰ˆÍç. ‹ûÖ!<wait=key><del=this>
+‰ŒJ. ]Œ«“R!<n>Š •F‹^ üŒ¶‹^Œx ”x‘ !<wait=key><del=this>
+<trust=f:6:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:6:50>ûŒ­ ŠJŠfŠáŠ×<n>‹ûÖÂ ‘MŒÃ ””\÷Ô‹ûŠ×‰˜<wait=key><p>‰Œa‘ ŒÀ ŠS‹^ ‘¤ C C‘ !<wait=key><del=this>
+”–”œ, ”piŒ­”z“ ‘¤ C C‘ !<wait=key><del=this>
+<trust=f:7:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:7:50>R·Œw  ÀÔŠÊ‰aŠS. ‹ûÖ<n>”x‘ ŒÀ rÂ ‰‡YÔŠá!<wait=key><del=this>
+Óˆõ ÞŠáˆõ!<wait=key><del=this>
+<trust=f:8:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:8:50>ÏÔ Šz’©ŠÊ ˆÏ ‘j‘ ŒÀ ×Â<n>”¶p”xˆõ n‘‰”xŒï ‘M”¶”xˆÜ ”‚ç ”‚<wait=key><del=this>
+ŠïU”x‘ !<wait=key><p>cÎŠ×Šá. Sl n‘‰”z ˆÏ<n>’³Œ«ŠS”z“ ŒË‰ˆÜ!<wait=key><del=this>
+<trust=f:9:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:9:50>Sl ‹ûÖÔçŒø!<n>ŽÃ ûŒ­ ˆÃ ŽÛŽÈÔçŒø?<wait=key><del=this>
+Sl d ÎŠÊ‰c!<wait=key><p>ÎŠ×, ‰ˆÜ ÎŠ×‹û ÔˆÏ ÈŽ‘ç<n>‹@ ŠSÂ ŽÄŽÃ ¯”z ÈŽ‘!<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:10:50>‰ŠóÏ Tm”z •F<n>”xŠSŒÀ“VÂ xˆõ ÞŠá<wait=key><del=this>
+ÔÉ, é‰›ŒÀ<n>Tm”zÂ Ð áR‹^ ‹påÎ?!<wait=key><del=this>
+<trust=f:1:20>È. ‡‹l ŽÂ‰Cl“Yâ!<wait=key><del=this>
+<trust=f:1:50>È!<n>”piŒ­, ”}‰º •FŠdâ!<wait=key><del=this>
+”}‰ºc<wait=key><p>È!<n>•FŠdâ ]Œ«“R!<wait=key><del=this>
+<trust=f:6:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:6:50>‘jÎ. ”piŒ­ ”­âŽµŠÊ ˆÎ‘M‹pŠ×‰˜<n>ŠS‹^ ”}‰º ˆ© ‘ƒˆÜ!<wait=key><del=this>
+Ö“b”z ‘F CˆÍ‹‘!<wait=key><p>b, ˆõŒÇ‰Ž ”x‘ ŒÀ<wait=key><del=this>
+<trust=f:11:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:11:50>iŽGŒwŽµ<n>R‹hŽ§Ã ”­â ÀŠg C C‘ <wait=key><del=this>
+ŠŠ<wait=key><p>ÔŒaˆÜ ‹q ÔŽ<n>‘OŠóŒw ‹^v‘Šç ”‚!<wait=key><del=this>
+<trust=f:12:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:12:50>‘jÂ ŠóŠìÔç. ”piŒ­!<n>ŠäFJ ŠJŠd  Œ¶â!<wait=key><del=this>
+Š!<wait=key><del=this>
+<trust=f:13:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:13:50><type=anger>”piŒ­Ô ”zŠáŒñ Œ¶“Y‹^ ”zŠáŒø!<wait=key><del=this>
+ˆõŒ¾ . Œ¶“Y<n>‰Œ\ ˆ© Ä‰˜!<wait=key><del=this>
+<trust=f:14:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:14:50>‘E‹^ •FŠgˆÜŽ!<wait=key><p>cŽ–‘® ”ìŠd Šd ËŠáŒÀ<n>nˆî º‘  ŒÃˆÍ‹û<wait=key><del=this>
+ÎŠm, ‰O’EÂˆÑ?<n>”}‰º •FŠdâ<wait=key><del=this>
+<trust=f:2:20>Š. ‡‹l ŽÂ‰Cl’ÙŽ!<wait=key><del=this>
+<trust=f:2:50>Šä‡ Æˆ© ‹^v‘€nŠáŒñ<n>ÐrÔ‘{!<wait=key><del=this>
+‰ŒJ. ‰ŒŠóJ ÖÈ”‚çˆâ‰c!<wait=key><del=this>
+<trust=f:7:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:7:50>‰ŒJ. Šä‡”z“ ŒË‰ŒŒñ<n>‰‡ ŠJŠX ˆÍç<wait=key><del=this>
+Ž‘ŒBÏ •FL ”zˆðˆ© ÞŠÊ §<wait=key><p>Š •F‹^ ”sŽ”xŠá<n>Ö“b”zŠá. ‹ûÖ!<wait=key><del=this>
+<trust=f:11:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:11:50>Sl iŽGç!<wait=key><p>”x‘ ŒÀ TŒ¶ŠÊ ”x‘  Œ¾<n>ˆÎ‘M‹qŠä ŒÃÔç<wait=key><del=this>
+‰O’EÎ, ŠV ”­âˆ© ÎŠ×ç<n>Šsv ‹hŒ‹‹“Ô ”}‰ºåÎ?<wait=key><del=this>
+<trust=f:15:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:15:50>^Ÿ Šä‡Â ˆÏï”xŠ<n>‘jÎ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+‘MŒÃ ˆõŒÇ‰c!<wait=key><p>ŠS ˆ¸Â Œì‹n‘ ”z“ŠÊ<n>”ÀÁ J“Œ«ˆ© ”sAŠ×‰˜<wait=key><del=this>
+<trust=f:16:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:16:50><type=anger>‘ ‰‡ÔçŒÃŒw<n>•Ž‘v ^ŸÏ ’å‹ûÀçŒø!<wait=key><del=this>
+ˆõŒ¾ . Œ¶“Y<n>•FÔ ŽâÎŠSŠÊ‰c!<wait=key><del=this>
+<trust=f:17:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:17:50>ÔØ‹^ ÔˆÑŒw Ðr”{ A Þˆâ‘ <wait=key><del=this>
+rÂ ‰‡YÔŠá<n>ŒéŒ¶Î, Š •F‹^ üŒ¶‹^Œx ”x‘ !<wait=key><del=this>
+<trust=f:3:20>È. ‡‹l ŽÂ‰Cl“Yâ!<wait=key><del=this>
+<trust=f:3:50>‘_‰‡ÇÔ‹û‹^ ‘jÎ<n>’B‰ƒ’B‰ƒ ”‚ ŠSˆ©â!<wait=key><del=this>
+Š ŒÃÔ ŒÊÎ. ]Œ«“R<n>â, •FŠdŽµ ˆ© Ä‰˜?<wait=key><del=this>
+<trust=f:8:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:8:50>ŠSŒ® àÂ ˆÏ ÎŠ×‘  ’³Œ«ŠS?<n>ˆ¸Ô ç”‚ Àâˆõ!<wait=key><del=this>
+YŒyÔ‘ !<wait=key><p>‘‰Œ Ž–‰ŒŒw ”‚ ‘ƒ ˆÍ‘ , ‹ûÖ?<wait=key><del=this>
+<trust=f:12:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:12:50>‘E xÅ‘¡”z ŒÃÆc<n>ŠS‹^ Ãˆˆõ vö<wait=key><del=this>
+Šs‹ûŒñ ”{ A ÞÃ ˆÍç<n>â, Šs‹^ ‘d ‹^v‘ƒŒJ?<wait=key><del=this>
+<trust=f:15:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:15:50>Šˆ© ‰ŒaˆÜ ŒÃ”zŠáŒñ ÐrÔ‰c<n>ŠV ‹ˆ‘¦ ‘ ˆõ ‰aˆîŒÀ ”xŒñ ‹pˆâö<wait=key><del=this>
+Š˜Œ¶‘  Œ¾<wait=key><p>ŠS ”­âŽ¹ TŒ¶ç<n>Š •F‹^ ”sŽ”‚<wait=key><del=this>
+<trust=f:18:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:18:50><type=anger>Œâ‘WŒø!<n>’³Œ«ŠS‹^ •Ž‘çŒø!<wait=key><del=this>
+^‰MÔç. Œ¶“Y<wait=key><p>‰Œa‘ ŒÀ •Ž‘ Œ¶“YÏ •F‹^<n>xˆõ Þö, Óˆâ‘ ?<wait=key><del=this>
+<trust=f:19:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:19:50>‡‹l xA”x‘ c Z‘ ŠÊ Òˆâ‘ ŒÀ<n>‰Šó‹ûŒñ ”{ A ÞÃ ˆÍŠá<wait=key><del=this>
+Šs”z“ ’˜ ˆÍç<wait=key><p>ŠJ‰˜‘  ”‚ŠdŠÊ ˆÕc<n>‰ˆÜ ‘‰Ž”xŠáŠÊ ˆÑ<wait=key><del=this>
+<trust=f:4:20>È. ‡‹l ŽÂ‰Cl“Yâ!<wait=key><del=this>
+<trust=f:4:50>‰ŒJ!<n>’€Ž¹Ã Šá”xâ Œ¶“Y!<wait=key><del=this>
+ÓÚöŒø!<wait=key><p>c]Œ«“RŒF ’€Ž¹Ã Šá”{ ˆÍçŒø!<wait=key><del=this>
+<trust=f:9:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:9:50>mÂ ‘ ŒÜ‰Œ‹ûˆõ?!<wait=key><p>b ‰O’EÎ. ¯”’”{ ‹±<n>Šdˆ© ‰a”‚‘ƒ “Š×‰˜!<wait=key><del=this>
+‹ûÖJˆÜ nŽÄŒ® ‘¤ C CöŒø!<wait=key><p>”x‘ ŒÀ ‘_‰‡Â<n>‰ŒŠó”xˆõ ÞöŒø<wait=key><del=this>
+<trust=f:13:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:13:50>‰ŒJ<n>‰ŒŠó”{ˆÜ •Ž‘ŠÜ!<wait=key><del=this>
+<type=anger>v”x”x!<n>Œ¶“YJˆÜ ŒËˆäŒø!<wait=key><del=this>
+<trust=f:16:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:16:50>‰ ŒÃ ‘¢rÔˆâ‘ ?<n>‰ŒaŠáŒñ ŠS‹^ •FÃ À“k‹^Œx ”x‘ !<wait=key><del=this>
+‘¢rÔçŒø!<wait=key><p>Šä‡, ŠSŒ® ‹¥‹ûvŒø!<wait=key><del=this>
+<trust=f:18:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:18:50>•Ž‘ŠÜÏ pŒkÃ ˆ°Ž”{ ‰Œ”ÀŠ!<wait=key><del=this>
+’³Œ«ŠS, ‡”x‘  ŒÃÎ ‘ŠŒø<wait=key><del=this>
+<trust=f:20:20>‰ŒJ. öŽµ W‘OŒ® ”‚ˆé”xâ‰áŠS<wait=key><del=this>
+<trust=f:20:50>ÎTŒJ‹^ Šdˆ©<n>ŠSŽ» ”sŽŠÊ Cˆâ‰aŠS<wait=key><del=this>
+<type=anger>Ð ‹nŒø!<wait=key><p>ŒéŒ¶ÎŒF ”}‰º”{ ˆÍçŒø!<n>Ð ‰ŒXŒñ Œ¶“Y •FÔ Ð ŠSŒø!<wait=key><del=this>
+<trust=f:5:20>È. ‡‹l ŽÂ‰Cl“Yâ!<wait=key><del=this>
+<trust=f:5:50>ÏÔ Šz’©Š. ŒéŒ¶Î<wait=key><p>‘jÎ. ŠS‹^ ‹^™ˆÜ!<n>c‰O’E‘ ?<wait=key><del=this>
+‘_, ‘jÃ ŠóŒw ”xˆÍ‹û<wait=key><p>ÎŠ×, ˆõŒÇ‰aŠS<wait=key><del=this>
+<trust=f:10:20>‰ŒJ! ‰ŒŠó”x‹ûˆõ!<wait=key><del=this>
+<trust=f:10:50>‘O§Ö‹N ŒéŒ¶Î!<wait=key><p>‘jÎ. ŠS‹^ ‘¤ C C‘ !<wait=key><del=this>
+‘jŠá. Š±ˆ© ŒÝ‘E ”‚ˆé”xŠÊ‘ <n>kÖŠá, ‹ûÖ!<wait=key><del=this>
+<trust=f:14:20>‰ŒJ. •FŠdâ!<wait=key><del=this>
+<trust=f:14:50>‘jÚö. ŒéŒ¶Î!<n>ˆÑ‘˜ “Ì Œw ”‚ˆé”‚  Œ¶â!<wait=key><del=this>
+<type=think>ˆÑ‘˜ “Ì ‹û<wait=key><p>ŠS‹^ •FŠdçˆâ‰aŠSc<wait=key><del=this>
+<trust=f:17:20>ÓÚŠá<n>ŠS‹^ ’€Ž¹Ã Šá”x‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:17:50>‰ ‹îJ ”}‰º”xˆõ v‰c<wait=key><p>ŒéŒ¶Î, ŠS‹^ ˆÍ‹“‹^Œx ”x‘ !<wait=key><del=this>
+‘MŒÃ ‹‘‹‘”x‰aŠS<n>•FÃ üŒj Šái. Šä‡<wait=key><del=this>
+<trust=f:19:20>‰ŒJ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:19:50>‰Œ[ ‹¯ŠÊ ŒÃÔç, ŒéŒ¶Î<wait=key><p>w‰ŒŠó”xˆõ ÞÀ‹û‰a!x<n>‹ûˆõ ŒÃ”xŠÊ ˆÍç<wait=key><del=this>
+‰ˆÏc ‘O§ öŒo‰aŠS<wait=key><p>‰Œc ‰ŒŠó”xˆõ ÞÀ‹û‰a?<wait=key><del=this>
+<trust=f:20:20>•Ž‘ Œ¶“YÏ ”¸è ‹Ð‹Ð•B É‹ûŒø!<wait=key><del=this>
+<trust=f:20:50><type=anger>ÈÈ<n>ŒéŒ¶Î, í”‚Œø<wait=key><p>Œ¶“YŠÊ ‰ŒZ ŒéŒ¶ÎŒ®<n>‘ç ‘ ’ÙÄ ˆÍçŒø!<wait=key><del=this>
+‘ ’ÙÀ‰ŒŒÀ ”‚Ž¹ Ð ‹qŠá<n>‰ŠóÏ •F‹^ ”sŽ”xŠá. Œ¶“Y<wait=key><del=this>
+<trust=f:0:20>‰Œa‘ !<n>Š•Œk”z ÀŒBÔ Þö!<wait=key><del=this>
+<trust=f:0:50>ç”‰ö. ]Œ«“R!<n>ŠáÅJ‹^ Ô ‰ŒŽÄŒw ˆ©âˆõ!<wait=key><del=this>
+YŒyÔ‘ !<n>“Í“Í ˆ©â!<wait=key><del=this>
+<trust=f:1:20>‰ŒaŠ. ‚‘  Œ¾ÅÔ ŠŸR<wait=key><del=this>
+<trust=f:1:50>‰[í”‚! ]Œ«“R<n>ŠóŽÂ‰CÔç!<wait=key><del=this>
+”piŒ­ ‹AØÔç!<n>ˆõŒ¾ <wait=key><del=this>
+<trust=f:2:20>‘jÎ. ‘GÖ ”‚ˆé‹o‰c<wait=key><del=this>
+<trust=f:2:50>ç”‰Šá. ]Œ«“R<n>‹•‘¡”‚‘\‰aŠS<wait=key><del=this>
+ÎŠ×JŽc<wait=key><p>‰ŒJ‹^ ‰ŒŽ„ŠŽ<n>ŠáÅJ‹^ Vr•B ”{ˆÜŽ!<wait=key><del=this>
+<trust=f:3:20>È. ŠóŽÂ‰CÔŠ!<wait=key><del=this>
+<trust=f:3:50>Sl ]Œ«“Rç<n>Šs‹ûŒñ ”‚Šg ‘ƒ ÓÚö<wait=key><del=this>
+ŠS ”­âÏ •FÔ ÎŠ×ç<n>Œø‹wˆ© ”}‰º ”‚ˆé”z ˆÍ‘ !<wait=key><del=this>
+<trust=f:4:20>”‚ŠkŠáŒø!<wait=key><p>ˆîŽ‘çŒø!<wait=key><del=this>
+<trust=f:4:50>”‚ˆé‹oöŒø!<wait=key><p>â, ’’‰âŒø!<n>Š•”D ŠõcŒ® ’Œ lˆ«ÔçŒø!<wait=key><del=this>
+<type=think>Š•”D Šõc?<n>ö, ö‹ÃˆÜ ’‰ŠÊ ˆÍ‘ ?!<wait=key><del=this>
+<trust=f:5:20>‰ŒJ. ”ÏŒª”xˆÜ ”‚Šk‰aŠS<wait=key><del=this>
+<trust=f:5:50><type=think>]Œ«“Rc<n>‘EŒaˆÜŠS ‰ŒŽ^”xŠáŠ×c<wait=key><p>‚‘  Œ¾ÅÔ ‹¥‹î”‚‘ ŠÊ ˆÕ ˆ¸‰aŠS<wait=key><del=this>
+€ ‰ŒJ ŒéŒ¶Î?<wait=key><p>‰ŒaˆÜ ‹Ýö‘W‹û ’mŠáÀˆõ<wait=key><del=this>
+<trust=f:0:20>ˆé‰b ”‚ŠkŠ!<wait=key><del=this>
+<trust=f:0:50>È. ‹© ”òŒ¸ ÀŒBÔ ÞEö!<wait=key><del=this>
+”x”x, Ô ‘M‹^Œw ‹©Ô‹ûŠ×!<n>¸ˆÕ‹^ ÎŠ×åÎ?<wait=key><del=this>
+<trust=f:6:20>‰ŒaŠ. ‚‘  Œ¾ÅÔ ŠŸR<wait=key><del=this>
+<trust=f:6:50>‹ûÖ‹^ ”xŒñ ‹pŠÊ‰aŠS<n>‘_‰‡Â Šál Ëö<wait=key><del=this>
+Te ŽÚŒ¶ç<n>û TŒ¶‰Ž<wait=key><p>ŽÞ‘¡”xˆÜ ŒÃ”‚<n>‹ûÖ ’€ˆõ!‹ûˆõ ŒÃÔç<wait=key><del=this>
+<trust=f:7:20>‘jÎ. ‘GÖ ”‚ˆé‹o‰c<wait=key><del=this>
+<trust=f:7:50>‰ŒJ<n>‹ûÖ, ”‚Šk‰aŠS!<wait=key><del=this>
+”–”œ. Šä‡Ô ŒÃ”‚ ‘€Š×<n>‘MŒÃ ‰ŒŽ…‹N<wait=key><del=this>
+<trust=f:8:20>È. ŠóŽÂ‰CÔŠ!<wait=key><del=this>
+<trust=f:8:50>Œâ‘¢ ”N‘MÖ‹N. ‹ûÖ<wait=key><p>”Ì”Ò, ŠSŽ„‘  ÒÂˆÑ<wait=key><del=this>
+‰, ‰ŒJ?<wait=key><p>”x”€c<wait=key><p>ÔˆÍ ‰ŒŽ…‹N! ˆõŒ¾ <wait=key><del=this>
+<trust=f:9:20>”‚ŠkŠáŒø!<wait=key><p>ˆîŽ‘çŒø!<wait=key><del=this>
+<trust=f:9:50>ˆÍ’­ˆõ ‹H©ˆÍŒ¶ŠÊ Ž‘ŒB‹^<n>Š•Œk”xŒñ Š[Ã ‹^™ A Þ‰aŠSŒø!<wait=key><del=this>
+Œ¾ÅŠóŒw ŒÃ”‚<n>‘ ‰‡Â ‰ŒØÔ ‘jÀŠ×‰˜!<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. ”ÏŒª”xˆÜ ”‚Šk‰aŠS<wait=key><del=this>
+<trust=f:10:50>ˆ°“ccŒ]‰aŠS. ‹ûÖ<n>‘MŒÃ ŠóŠä”z ŽàÆ]Šá<wait=key><del=this>
+b, bç<n>Šaˆ«‘ ŒX˜ ŽÚŒ¶ ”x‘  Œ¾<wait=key><del=this>
+<trust=f:1:20>ˆé‰b ”‚ŠkŠ!<wait=key><del=this>
+<trust=f:1:50>ŒÊÎ!<n>ˆõŽ§”‰ö. ”piŒ­<wait=key><del=this>
+<type=think>Šá”ŠÔŠá<n>]Œ«“R‹^ ‰ŒŽ^”xˆõ Þö<wait=key><p>ŠS‹^ ‘_‰‡Â ‹^œÔ ‹oÀŒjŠS?<wait=key><del=this>
+<trust=f:6:20>‰Œa‘ !<n>Š•Œk”z ÀŒBÔ Þö!<wait=key><del=this>
+<trust=f:6:50>‰ŒJ. ö‰¤ˆ© ˆ©µ ‘\ö<n>ŠóŠä”z‹N. ”piŒ­<wait=key><del=this>
+‰ŒÀ”‚. ‹ûÖÔ ÔŒZ ŽÚŒ¶Œ® ”xŠáŠ×<n>”‚ˆ© Žµ‘ÒJŽµ ‹çŒjŠS<wait=key><del=this>
+<trust=f:11:20>‘jÎ. ‘GÖ ”‚ˆé‹o‰c<wait=key><del=this>
+<trust=f:11:50>ç”‰ö! ”piŒ­<n>‘d ‹@ ‰ŒŽ^”‚‹^ ‹n<wait=key><del=this>
+ÎŠ×. Î‘¡Ôç<wait=key><p>Î‘¡ ”‚ç ”{ ×Ô<n>ä‹è Š[Î ÞÀŠ×‰˜!<wait=key><del=this>
+<trust=f:12:20>È. ŠóŽÂ‰CÔŠ!<wait=key><del=this>
+<trust=f:12:50>”Ì”Ò, Šw ÀŠ×<n>ŠS‰˜‘  ‰ŒŽ^‘ ŠÊˆÑ<wait=key><del=this>
+‘E, ‘MŒÃ?<n>‚‘  Ö‰üŒX˜ˆÑ<wait=key><del=this>
+<trust=f:13:20>”‚ŠkŠáŒø!<wait=key><p>ˆîŽ‘çŒø!<wait=key><del=this>
+<trust=f:13:50>iŠËÂ ”piŒ­Ï ŽŒ¶Œw “Ì“ÄŠáŒø!<wait=key><del=this>
+ÓÚö, Œ¶“Y<n>iŠËÂ ’€ˆõ‰ˆ ’âcŒw ’BŒj Ä‰˜!<wait=key><del=this>
+<trust=f:14:20>‰ŒJ. ”ÏŒª”xˆÜ ”‚Šk‰aŠS<wait=key><del=this>
+<trust=f:14:50>‰ŠóÏ ˆ«‘H”}Ô<n>Ô ˆé‰EŒ® ŠcÚ‰aŠS<wait=key><del=this>
+ÔˆÜ Šd ’€Ž¹ÔŠ×‰˜c<n>”Ì”Ò, ‰ŒØÔ ‰O’EÂˆÑ<wait=key><del=this>
+<trust=f:2:20>Š. Te ×Ô ÞÃ ‹±<n>ø‘O‹û‹^ ‹^v‹Œ¹ˆÜŽ<wait=key><del=this>
+<trust=f:2:50>Šä‡ ÆÏ ŽàÆ<n>‘jÂ ‰CÖˆ© ‹oöŽ!<wait=key><del=this>
+ŠS‹^ Œ¾’Dˆ©‘ ç. ]Œ«“R<wait=key><p>ÔˆÜ ‹hŒ‹‹ûŠÊ ˆÕÔˆâ‘ <wait=key><del=this>
+<trust=f:7:20>È. Ô ‘M‹` mÂ ‘ ŒÜ‰Œ‘ <wait=key><del=this>
+<trust=f:7:50><type=think>“RÀ~!<n>‘ÔŠÊ‹N~!<wait=key><p>ŠS‹^ ”z¢ ‘EŒaˆÜ<n>ŒÃ”‚ Àˆõ v‰c<wait=key><del=this>
+‹ûÖ, Te ×Ô‘ ?<n>FÔ ˆÍ’­ö‘¢ ˆÕ ˆ¸Â‹N<wait=key><del=this>
+<trust=f:11:20>‰ŒJ. Ô ‘M‹^ŠÊ<n>ø‘O‹û‹^ Ž‰GCö<wait=key><del=this>
+<trust=f:11:50>ÎŠ×ç. Sl iŽGŠÊ ŠóŠä”‚<n>‘¢rÔç<wait=key><del=this>
+bç ˆ±â‰Œ?<wait=key><p>Šs”z“ ’²’DˆŠÊ ˆÏ<n>‰× ‹W ×ÔŠáŒÀ<wait=key><p>ŽÞ‘¡”xˆÜ ‰ŒŽ^”‚‹^ ‹pˆâ‘ ?<wait=key><del=this>
+<trust=f:15:20>‰ŒJ, ”p’B×‡Ô‘ <wait=key><del=this>
+<trust=f:15:50>‰EU ’åŒwŠ× 9Ï ^ŸŠìŠ<n>‰[í”‰ö<wait=key><del=this>
+ÎŠ×ç. ’³Œ«ŠS<wait=key><p>ŠS ”­âŽµ ”z ˆÜ ÎŠ×ç<n>Œø‹wˆ© •FÃ ”~’« ‹AØÔ‘ <wait=key><del=this>
+<trust=f:16:20>ÈÈ<wait=key><p>nˆî º‘  Œ¾Œø. ¸ˆÍ ÎŠ×çŒø<wait=key><del=this>
+<trust=f:16:50>¸ˆÍ ÎŠÙ A‘‚Ô ÎŠ×EöŒø!<wait=key><p>Œ¶“YŠÊ Óˆõ ÞöŒø<n>•F‹“ˆõ ‰TŒw˜ ×ÔEöŒø!<wait=key><del=this>
+‰ŒJ?<wait=key><p>ŠSÀŠá Œ¶“Yˆ©<n>¸ˆÍ ÎŠÙ ˆÕ’\Œ\ ”‚ˆé”x‹C‹N?<wait=key><del=this>
+<trust=f:17:20>ÔˆÑŒw ”‚ˆéÔ‰aŠS<wait=key><del=this>
+<trust=f:17:50>¸ˆÍ ÎŠ×‹ûŠ×c<wait=key><p>‘¢rÀŒw ‰ŒaˆÜ ŒÃ”{ A ÞŠÊ ˆÏ<n>Šä‡, ‰ŠóŽ|Ôˆâ‘ <wait=key><del=this>
+‰…”?<wait=key><p>ŠV ŒøŒ«ˆâ‘ ŒÀ<n>‰ŒQÀŒñ ‘jˆâ‰c<wait=key><del=this>
+<trust=f:3:20>È. ØŒõ ‰ŒŽ^”‚ ‘ƒ ˆÍç!<wait=key><del=this>
+<trust=f:3:50>’³Œ«ŠSŠÊ ÏT¼ÔE‘ ?<n>Sl Š[Ã ‹fˆõ vöŽµ ‹q ˆÍçc?<wait=key><del=this>
+b ‰Œa‘ . ‰ˆÜ ‰ŒØ ‘jåÎ?<n>‰ŒŽ^”xŠÊ û‰eÃ Ä A ÞÀŠ×‰˜ ŒÃÔç<wait=key><del=this>
+<trust=f:8:20>‰Œa‘ !<n>Š•Œk”z ÀŒBÔ Þö!<wait=key><del=this>
+<trust=f:8:50>‰ŒJ. ÔŒaˆÜ ‘ ’Ù ŠSˆ©ŠÊ ˆÍç<n>‘_‰‡ÇÔ‹û‹^ ŒÃÔ‘ !<wait=key><del=this>
+‹ûÖ ŒÃÔ ŒÊÎ<n>Sl Švc<wait=key><p>ÎŠ×, ÎTˆÕ‹^ ÎŠ×ç<wait=key><del=this>
+<trust=f:12:20>‰ŒaŠ. ‚‘  Œ¾ÅÔ ŠŸR<wait=key><del=this>
+<trust=f:12:50>È. –Œ¶ ‘jÂ × ”z ˆÍ ŒÊ‘ ?<wait=key><del=this>
+‰ŒJ. ”piŒ­<n>’G ‰ŒŽ… ×Ô‘ <wait=key><del=this>
+<trust=f:15:20>‘jÎ. ‘GÖ ”‚ˆé‹o‰c<wait=key><del=this>
+<trust=f:15:50>‰ŒJ. Š ”¸èÃ ‹“ÀŒñ<n>iŠáŒ¾ Æ‹^ ‰ŒŽ^”xlˆâ‘ <wait=key><del=this>
+‰Œaˆâ‘ <wait=key><p>‰ØÂ<n>ŠX “Y  ‘€ŽÔÀŠ×‰˜c<wait=key><p>‘jÂ ŽÚmÃ ‹“Œj‘ƒ A Þˆâö<wait=key><del=this>
+<trust=f:18:20>”‚ŠkŠáŒø!<wait=key><p>ˆîŽ‘çŒø!<wait=key><del=this>
+<trust=f:18:50>ŠïU•B ‹^œÔ ‹oÃ ˆÍçŒø!<wait=key><p>’³Œ«ŠS, ‘MŒÃ ‘MŒÃ<n>Š•Œk”‰ÀŠ×‰˜Œø!<wait=key><del=this>
+ˆõŒ¾ . Œ¶“Y<n>Šˆ© Vr•B ”‚ ‘‚ ‹AØÔç<wait=key><del=this>
+<trust=f:19:20>‰ŒJ. ”ÏŒª”xˆÜ ”‚Šk‰aŠS<wait=key><del=this>
+<trust=f:19:50>Œ¾ÅÂ ØŒõ ‘G”‚‘\Ã ˆÕÔŠá<wait=key><p>ŠSŠÊ ‰ŠóJˆÜ ‹^œˆÂ A<n>c‰Œa‰Œ ‹¯WJ Ó A Þ‘ <wait=key><del=this>
+‰ŒaˆÜ ŒÃ”‚ ‘€Š× ‰ŒŽ…ˆÑ<wait=key><p>ˆõŒ¾ . ŒéŒ¶Î<wait=key><del=this>
+<trust=f:4:20>ˆé‰b ”‚ŠkŠ!<wait=key><del=this>
+<trust=f:4:50>Œ¶“YŠÊ ’«‘H”xŠ<wait=key><p>‘MŒÃ •Ž‘Šá¦ö!<wait=key><del=this>
+•Ž‘ŠÊ ˆµ”xˆõ ’«‘H”z §ÔçŒø!<wait=key><p>J”š!<wait=key><del=this>
+<trust=f:9:20>‰ŒJ!<n>Š•Œk”z ÀŒBÔ Þö!<wait=key><del=this>
+<trust=f:9:50><type=think>Ž»Œ¾ –ŠÊ ˆÍç?!<wait=key><del=this>
+‹ûÖ!<n>À, À‘  Œ¾‹ûŒø!<wait=key><del=this>
+<trust=f:13:20>È. ‚‘  Œ¾ÅÔ ŠŸR<wait=key><del=this>
+<trust=f:13:50>•Ž‘”z“ Ô ‘M‹^ŠÊ<n>×ŽŠá‡Ž‘‘ !<wait=key><del=this>
+ŒÊÎŒø!<n>×ŽŠá‡Ž‘çŒø!<wait=key><p>c?<wait=key><p>‰ŒZ‹N Te ‹îÔçŒø?<wait=key><del=this>
+<trust=f:16:20>ÔˆÑŒw ‘GÖ ”‚ˆé‹o‰c<wait=key><del=this>
+<trust=f:16:50>‘O§Ö‹N. Œ¶“Y!<n>ŠS‹^ ‘¤ C C‘ <wait=key><del=this>
+<type=anger>•Ž‘ VS ^Ÿ!<n>öŠÈ ‘ÒÔ ”¸è”xŠÊ‘  kÖçŒø!<wait=key><del=this>
+<trust=f:18:20>È. ŠóŽÂ‰CÔŠ!<wait=key><del=this>
+<trust=f:18:50>ŒÊÎ<wait=key><p>Œ¶“Y, Œâ‘W<wait=key><del=this>
+<type=anger>ŒÛ, ŒÛ, ŒÛ, Œâ‘ ŠáˆõŒø~?!<wait=key><p>Œ¶“Y ‹@ •FŠg ˆÍçŒø!<wait=key><del=this>
+<trust=f:20:20><type=think>‰vZ‰aŠS<wait=key><del=this>
+<trust=f:20:50>ç”‰‰aŠS! Œ¶“Y<n>Š•”DÏ •Ž‘Šá˜ ”Š‹hÔEŠá<wait=key><del=this>
+<type=anger>ŒéŒ¶Îˆ© ’²’D”‰öŒø?!<wait=key><p>•B, •FŠg ˆÍçŒø~~!<wait=key><del=this>
+<trust=f:5:20>YŒyÔ‘ !<wait=key><del=this>
+<trust=f:5:50>Šˆ© Ž§ˆª”z ˆÕÀŠá ‹@ “T •FÔ ‹oö<n>‰O’EÎ. ânÃ ˆ©‘W! ŒéŒ¶Î<wait=key><del=this>
+cÓˆâŠá. ‰ŒX‹^Œx ”x‘ <n>c]Œ«“Rˆ© ‰ŒaˆÜ ŒÃ”zŠáŒñ<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. ç”‰ö<n>‹ûˆõ Ž§ˆª”xŠÊ‹N?<wait=key><del=this>
+<trust=f:10:50>YŒyÔ‘ !<wait=key><p>É, ‰ŒŽ^”xˆõ ÞåÎ<wait=key><del=this>
+‰ŒJ. ‰ŒŽ^”xˆõ Þ‰aŠS<wait=key><p>c‰ˆÑŒw ‹q ˆÍˆâ‘ <wait=key><del=this>
+<trust=f:14:20>‹^œÔ ‹oÃ ˆÍç. ØŒõ•B<wait=key><del=this>
+<trust=f:14:50>‘d ‹@ ‰ŒŽ^”‚‹^ ‹p‘  ÒÃ‰˜?<n>ŒéŒ¶Î, Vr•B Š•Œk”‰åÎ<wait=key><del=this>
+ŒñŒù C‰c. ÎTŒJ‹^<n>ÕB”x‘  ÒÎŽµ ŒÃÔ‘ <wait=key><p>‰ŠóŠÊ ’G ŽŠr”x‰aŠS<wait=key><del=this>
+<trust=f:17:20>ˆÎ‘M Œ¾. ØŒõ ‹^œÔ ‹oÃ “Š×<wait=key><del=this>
+<trust=f:17:50>‰O’EÎ<n>Šv Î‘€ ç”xˆõ Þö<wait=key><p>Šdˆ© À‘Ÿ”x‘ <wait=key><del=this>
+<type=think>Žâ‰a’©ŠÊ Ô ˆ°‘Mc<n>‹hŒ‹Œ@ ÔŒZ ˆÕÖˆ©<wait=key><del=this>
+<trust=f:19:20>È. ŠóŽÂ‰CÔç!<wait=key><del=this>
+<trust=f:19:50>’€ˆõÏ ˆé‰Eç!<wait=key><p>ŒéŒ¶Î! ö‰¤ “ô!<wait=key><del=this>
+‰ŒJc<wait=key><p>‰ˆÍŒñ ‹oŠá<n>ˆõŒÇ‰aŠS. ’³Œ«ŠS<wait=key><del=this>
+<trust=f:20:20>‹^œÔ ‹q ‘M‹^ˆ© ÎŠ×‹û<n>ŠóŽÂ‰CÔçŒø!<wait=key><del=this>
+<trust=f:20:50>ŒéŒ¶ÎÏ ‰CÔ<n>ˆ©í ’ÏöŒø!<wait=key><p>Œ¶“Y ‹Ð‹Ð•B ËöŒø!<wait=key><del=this>
+<type=think>ÎÔ‘R, ”«‰‹c<n>cˆ©Œ@, Šáy<wait=key><p>‰Šó‹“‹^ ‘ ’ÙÉ ‘€EÃ‰˜c<wait=key><del=this>
+<trust=f:0:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:0:50>‹Ï ŽÂˆ©n ×J ’Gˆç”xŠÊ ˆÍç?<n>]Œ«“RŠÊ ŠsT ’C”‚Žµ “dÔ‹ûŠ×‰˜<wait=key><p>b, ‰ˆÜ ‘jÂ ‘JÔ‘ ŒÀ!<wait=key><del=this>
+‹ûÖ‹^ ‰Šr<n>‘ ŠS’©‘¢ ÒÃ ˆÍåÎ?<wait=key><p>â, Ž‘‘MÃ ‹“ö Àâ<wait=key><del=this>
+<trust=f:1:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:1:50>]Œ«“R, Ôç‰ŒŒ® ‹“ö Àâ<n>ŒøŒ­ ’]”x‰Œ ‰ŒaåÎ?<wait=key><del=this>
+È. ŠS‹^ ‹hˆ°Ôç<wait=key><p>”z¢ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:2:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:2:50>ö‹¯ ]Œ«“R?<n>‹^™ ˆÍç?<wait=key><del=this>
+Š. C Ã ’]”{ C CÀŠ×‰˜Ž<wait=key><del=this>
+<trust=f:3:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:3:50>nˆî ºÔŠS ÀŠ. ]Œ«“R<n>Ô”‚”‚. ŠS‹^ ‰ŒXŠ×‰˜<wait=key><del=this>
+’³Œ«ŠS‹^?<wait=key><p>‰Œ\ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:4:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:4:50>•Ž‘ŒwŽµ Šd Œj ‹z A CöŒø<n>]Œ«“R, Ôç‰ŒŒ® ‹“ö ÀâŒø!<wait=key><del=this>
+È, ‰ŒXâ!<wait=key><del=this>
+<trust=f:5:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:5:50>C Ã ’]”xŠÊ ˆÕÔŠm ]Œ«“R?<n>ŠSŠÊ ‘_‰‡ ‹bÎˆ©‹^ Ž‰GCŠÈŠ×‹û<wait=key><del=this>
+ˆõŒ¾ . ŒéŒ¶Î<n>”z¢ YöÄˆÜ<wait=key><del=this>
+<trust=f:0:20>Te ×Ôl‘{?<n>‘Oˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:0:50>‹ûÖ‹^ Š³’©’Tö?<n>cˆ© ˆõwÔ ÞŠÊ ˆÕ ˆ¸Î<wait=key><del=this>
+ŒÊÎ. C Ã ’]”{ C C‘ <n>Ôç‰ŒŒ® ‹“ö Àâˆõ!<wait=key><del=this>
+<trust=f:6:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:6:50>”íÅ, ‹ûÖ‹^ ‰ŒZ Š³’©ˆ©<n>Ž§ˆí‰aŠS<wait=key><p>ÎÔ, í”xŠá<wait=key><del=this>
+Ž–~‘® ˆÍfŒ¶ŠÊ ŒÃ“Ÿ‰Ž ”x‘ ŒÀ<n>ŠS‹^ ŽÂí”xˆõ ÞŠáˆõ!<wait=key><p>â, ˆ©Žµ YöÀâ<wait=key><del=this>
+<trust=f:7:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:7:50>•’Ñ Š³’©’T‰aŠS. ‹ûÖ<n>c‰ŒJŽµ –Œ¸ Ô‘O d ”xŒñ ‹p‘ ?<wait=key><del=this>
+×ŠäÂc<n>Ž‘‘MÃ ‹“ö ÀŠÊ A…J<wait=key><del=this>
+<trust=f:8:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:8:50>cˆ© Ž“kˆ© ÔŽ”‚ ÀÔŠ<n>”z¢ YöÄ‰˜?<wait=key><del=this>
+‰ŒJ. ‘EŒZ Ž‘ŒBÂ<n>À“• W‘OŒ® Ðˆõ Þ‰Œ Œ¾ŒlÔ‘ !<wait=key><del=this>
+<trust=f:9:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:9:50>‹ûÖ, âŽÄ•B YöÉŒø!<n>“T Ž‘ˆÏÏ ŠhŽŸˆ© ŠSŒø~<wait=key><del=this>
+Óˆõ Þö. À’M‘  Œ¾<wait=key><p>‘ ‰‡ ƒŒw YöÄ “Š×‰˜<n>é‰›ŒÀ ‰ŒŠáŒj<wait=key><del=this>
+<trust=f:10:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:10:50>ŒÃ“ŸŠÊ ˆÍ’­‘ ŒÀ ‰ ’Œjrc<wait=key><p>‹ûÖ, ‰Šó‹^<n>âŽ”z ŒñÔ Þ‰aŠS<wait=key><del=this>
+‰ˆÑ Ô‘O ÓÚö?<wait=key><p>â, ™ŽÖ Ô·Œ®<n>‹“ö Àâˆõ<wait=key><del=this>
+<trust=f:1:20>Te ×Ôl‘{?<n>‘E”ùˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:1:50>‘MŒÃÔŠ. ”N‘MÔ Ð ‘jÎ ÀR<wait=key><del=this>
+]Œ«“R‹^ ‰ŒaˆÜ Ž§ˆª”‚?<wait=key><p>Te ×Ö‘  YöÄ‰˜?<wait=key><del=this>
+<trust=f:6:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:6:50>bŒ¶”xŠ. ”piŒ­<n>”¶p•B ”N‘MÔ Ð ‘jÎ ÀÔ‰Ž ”‰ö!<wait=key><p>”z¢ Ôç‰Œ”‚ Àâ<wait=key><del=this>
+<type=think>‹ûÖÔ ‰ŒaŠáŠ×‰˜ ’Cˆª×‰˜ É<n>‘_‰‡ ˆÎ‘M‹pŠ<wait=key><del=this>
+<trust=f:11:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:11:50>€ ‰ŒJ ”piŒ­?<n>b nˆî ºÔŠÊ ˆÍ‹û‹^ Þö?<wait=key><del=this>
+iŽG‹^ Óˆõ ÞÀŒñŽµ!<wait=key><p>Ô Ž‘ŒB ØŒõ ˆ÷Œ@”‚”xˆõ Þö<n>Ôç‰Œ”‚ Ä ˆÍ‘ ?<wait=key><del=this>
+<trust=f:12:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:12:50>Š³’©ˆ© ŽGŒ­ˆÑ<wait=key><p>”piŒ­Â ØŒõ<n>‘jÂ AŒ¾ˆ© ‹r ˆÍç<wait=key><del=this>
+‰, ‰ˆÍŒF Te Ž‰GÔç!<wait=key><p>‰ˆÕÀŠá Te ×Ö‘ <n>‹“ö Àâc<wait=key><del=this>
+<trust=f:13:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:13:50>Œ¶“Y‹^ ‰ŒaˆÜ Ž§ˆª”‚Œø!<n>”piŒ­ÔŒF ˆ¸ÎŒø!<wait=key><del=this>
+öŒÛ, ‰ŒJ?<n>‰Œ\ ”z¢ YöÄ‰˜?<wait=key><del=this>
+<trust=f:14:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:14:50>Ôç‰ŒŒ® ‹“ö Éç‘ <n>C Ã ’]”{ C C‘  ÒŠÈŠm?<wait=key><del=this>
+È, ŒéŒ¶Î ŒÃÔ ŒÊÎ<wait=key><del=this>
+<trust=f:2:20>Te ×Ôl‘{?<n>‘Oˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:2:50>Ôç‰ŒŒ® ‹“ö ÀŠÊ ˆÜ ö‹»‰˜Ž?<n>ØŒõ ‹^™ A ÞÃ ˆÍbŽ<wait=key><del=this>
+Šs‹ûŒñ ‰ŒaˆÜ ŒÃ”{ ‘ƒ ÓÚŠá<n>‘jÎ. ”z¢ ‹“ö À‹^Œx ”x‘ <wait=key><del=this>
+<trust=f:7:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:7:50>Óˆõ Þö! Šä‡<n>ŠáÅJ Te ŒÃÔ ŠSl‘ <wait=key><p>Ô Ž‘ŒBÃ ‹fâc ŒÊ‘ ?<wait=key><del=this>
+Š ŒÃŠóŒwç. ‹ûÖ<n>â, Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:11:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:11:50>iŽGŠÊ Š[Ï ×JŠÊ Š³’©ˆ© ŽGŒ«Š<n>â‰Œ ×Â ”xŠS‹^ ŒøŒ«ŒñŽµ ŒÃÔç<wait=key><del=this>
+ˆÎ‘M‹n? ‰O’EÎ<n>ŠS‹^ Óˆõ ÞÀŠ×‰˜<wait=key><p>ÎT“¸ ‘ ‰‡Â<n>Ô Ž‘ŒBÔ ‘‰Ž”‚<wait=key><del=this>
+<trust=f:15:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:15:50>‰ŒaŠáŒñ uŽÚ ‘¨ˆÜ ”‚ ‘€â<n>ö‹¯ Šä‡?<wait=key><del=this>
+’DŽÂÔç<n>öŽµ Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:16:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:16:50>ˆõŠ¤ŠÊ ‘j‘  ÒÎŒø!<n>CÞçŒÀ ”‚Œø!<wait=key><del=this>
+‰ŒJ. Œ¶“Y<n>‰Œ\ –Œ¶ˆ© CÞŒñ ‹pˆâ‘ ?<wait=key><del=this>
+<trust=f:17:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:17:50>ˆ«Šä”z Ôç‰ŒŠá<n>ˆõŠ¤Œ® CÞŒñ ‹qŠá. ‰Œa‘  ÒŠÈŠm?<wait=key><del=this>
+ŒéŒ¶ÎŠì‰c<n>YŒy ÔˆçÂ Cö!<wait=key><del=this>
+<trust=f:3:20>Te ×Ôl‘{?<n>‘Oˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:3:50>Ôç‰ŒŒ® ‹“ö Àâ! ’³Œ«ŠS<n>‘_‰‡Â ‹bÎˆ©‹^ ‰O’E‘  ÒÃ‰˜?<wait=key><del=this>
+YŒy ‰O’E‘ <n>]Œ«“RÏ ‰ŒZ ‘JÔ ‘jŠáŠ×‰˜<wait=key><p>â, Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<trust=f:8:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:8:50>‰ŒaŠáŒñ C Ã ’]”{ C C‘ !<n>’³Œ«ŠS, Ôç‰ŒŒ® ‹“ö Àâ<wait=key><del=this>
+<type=think>‘MŒÃ ”zˆéˆ¸Â ŽÂˆåÔŠc<n>ŠSŽ„‘¢ Ò‘ ŒÀ<wait=key><del=this>
+<trust=f:12:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:12:50>‰[í”‚c<n>’³Œ«ŠSŠÊ b‹‘ Óˆõ Þ‰aŠS<wait=key><del=this>
+b, ‰Œa‘ <n>ÏT¼Â ‘Mn‘FÖ ’Ñö‹^ ”xˆÍ‹‘<wait=key><p>”x‘ ŒÀ Ô ÔŽÂ<n>‹’‘  ÒˆõŽ¹ ŒøŒ«ˆâö<wait=key><del=this>
+<trust=f:15:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:15:50>’³Œ«ŠS‹^ Š³’©’Tö?<wait=key><p>‰ŒJŽµ Ô‘O ö‹ÃˆÜ ”{ ˆÍ‘ ?<wait=key><del=this>
+ŠïU•B Ôç‰ŒŒ® ‹“ö Éç‘ <n>ÏT¼Ô ˆ©í ŒÝ‘E ”‚ç ”xŠÊ ×ÔŠ×‰˜<wait=key><del=this>
+<trust=f:18:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:18:50>’³Œ«ŠS, Ô·Œ® YöÉŒøc<wait=key><p>Œ¶“Y”z“ƒ Ð ÓŒj ‘ƒ ˆÕ ˆ¸ÎŒø<wait=key><del=this>
+•Ž‘‹ûŠÊ ŠŠŽ¶Ô Te ŽÚŒ¶ç!<wait=key><p>ÔŒ¶ v! Œ¶“Y<n>”}‰º YöÀâ<wait=key><del=this>
+<trust=f:19:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:19:50>ˆõw ”z‹w ˆ»‘ó<n>‰Šó‹ûŒñ ‰‡ ”‚ˆé”{ A Þˆâ‘ <wait=key><del=this>
+”Ì”Ò, ŠŠëÔ‹û‹^ ‰ŒŽ…ˆÑ?<wait=key><p>â, ‰Œ\ ‰ŒŠóJ ÖÈ”‚ Ä‰˜!<wait=key><del=this>
+<trust=f:4:20>Te ×Ôl‘{?<n>‘Oˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:4:50>È. cˆ© Þö ÀR<n>Œ¶“Y, –Œ¶ˆ© ‹^™ ˆÏ CÃ‰˜?<wait=key><del=this>
+’BØ”xˆÜ Ôç‰ŒŒ® ‹“ö ‘€âŒø!<wait=key><del=this>
+<trust=f:9:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:9:50>ÓÚÀŠ×‰˜ ŠsT ”‹~Šó‘  Œ¾!<wait=key><p>‰ŒJŽµ ö‹ÃˆÜ ”{ ˆÍç?<n>×Šä Ôç‰Œ‹û‹^ ‹“ö Ä‰˜?<wait=key><del=this>
+YŒyÔ‘ Œø!<wait=key><p>â, ‹ûÖ!! YöÉŒø!<wait=key><del=this>
+<trust=f:13:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:13:50>Î, ŠS Óˆõ Þö!<n>‰ˆÜ ƒŒw Š•”DÏ ˆ°Ô‹ûŠÊ ˆÍ‘ ?!<wait=key><del=this>
+ŒÊÎŒø. ŒÊÎŒø<n>‹`ˆ©”z“ ‘GAˆÂ ˆ°ÔçŒø!<wait=key><p>ââ, Ôç‰Œ”‚ ÉŒø!<wait=key><del=this>
+<trust=f:16:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:16:50>ˆõwÔ Þö ÀÔŠÊ‰c<wait=key><p>ö‹¯ Œ¶“Y?<n>é‰› Ôç‰ŒŒ® ‹“ö À‘  Òˆâö?<wait=key><del=this>
+Sl Šä‡ÔçŒø!<n>Œ¶“Y‹^ ‰ŒXŒjˆõ ”‰öŒø!<wait=key><p>‘MŒÃÔçŒø<wait=key><del=this>
+<trust=f:18:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:18:50>¢ÖÔ d‰˜?<n>Œ¶“Y, ‘d YöÉ ‘ƒŒJ?<wait=key><del=this>
+‘dÔ ÎŠ×‹û ä‹è YöÄ ˆÍçŒø!<n>‰ˆÜ •Ž‘Ï S”{ÔçŒø!<wait=key><del=this>
+<trust=f:20:20>Te ×Ô‘ ?<n>W‘OŒ® ŒÃ”‚ ÀˆÍ‹û<wait=key><del=this>
+<trust=f:20:50>ŠsT ”÷Ø”x‘  ŒÃˆÍ‹û<wait=key><p>Šdˆ© YöÄ “Š×<n>Œ¶“Y‹^ ”}‰º ‹’ˆâŠÈŠm?<wait=key><del=this>
+ŒéŒ¶ÎŠÊ ’^Ž‘çŒø~<n>Œ¶“Y Vr•B ‹“Ã ˆÍçŒø!<wait=key><del=this>
+<trust=f:5:20>Te ×Ôl‘{?<n>‘Oˆ© ‹^v‹Œ¹ˆÜŽ!<wait=key><del=this>
+<trust=f:5:50>€ ‰ŒJ ŒéŒ¶Î?<n>”N‘MÔ ö‹w˜‹Nc<wait=key><del=this>
+ÔâÏ Ôç‰ŒŒ® ‹’ˆõ vŠá<wait=key><p>]Œ«“R, ˆ¸Ô ‹“ö ‘€ˆâŠS?<wait=key><del=this>
+<trust=f:10:20>Te × ÞÀŒñ ŒÃ”‚ ‘Š<n>Ž‘ï”{ ”sŽ CŠáˆõ!<wait=key><del=this>
+<trust=f:10:50>‘E‰Œ, ŒéŒ¶Î<n>Ô Ž‘ŒB ‘d ˆ÷Œ@”‚”xŠÊ ˆÕ ˆ¸‘  ÒÎ?<wait=key><p>ŠV ŒÃÔçc<wait=key><del=this>
+ŒÃ”x‘  ÒÎ‹^ Óˆõ ÞŠá<wait=key><p>â, ‹ûÖ<n>Ô·Œ® ‹“ö Àâ‰áŠS<wait=key><del=this>
+<trust=f:14:20>ˆ÷Œ@”{ ‹¯ŠÊ ŽµŒw ‹^vç‘ <n>Te ×Ö‘  ŒÃ”‚ ‘ƒŒJ?<wait=key><del=this>
+<trust=f:14:50>ŒéŒ¶Î, ‘ ‰‡ Te Ž§ˆªÃ ”xŠÊ‘ <n>”z¢ ŒÊ’‘ Ä‰˜?<wait=key><p>Ô Ž‘ŒBÃ Šd Œj ‹z A Cöc<n>ŒÊ‘ ?<wait=key><del=this>
+‰ŠóÏ Š³Â ŽÛ× Aˆ© C‰aŠS<wait=key><del=this>
+<trust=f:17:20>–Œ¶ˆ© ‹“ö ‘ƒ “Š× ŒÃ”‚ É<wait=key><del=this>
+<trust=f:17:50>ÔÉ, cˆ©<n>ˆõwÔ ÞŠÊ ˆÕ ˆ¸Â‹N<wait=key><p>Ôç‰Œ”‚ É<n>ŽŠë”‚ ‘ƒ “Š×‰˜<wait=key><del=this>
+<type=think>c!<wait=key><p>Šä‡‹^ Š³’©’Mˆõ ÞEŠÈŠm<wait=key><del=this>
+<trust=f:19:20>ŒÃ”‚ ÄŒJ?<n>–Œ¶ˆ© ‹^™ A ÞÃ ˆÍç<wait=key><del=this>
+<trust=f:19:50>Ž§ˆª”x‰ŒŒÀ ”‚Ž¹ Ð ‹n. ŒéŒ¶Î<n>ŒÃŒw ”‚ç ùŒwŽÚ ‘G”‚‘ ŠÊ ˆÍçc<wait=key><p>Te ×Ô ‹oˆÏ ŒÃÔç!<wait=key><del=this>
+Î, Óˆõ ÞŠá!<n>‘ ‰‡Ö“v Ôç‰Œ”xŒj‹C ’GÔŠá<wait=key><del=this>
+<trust=f:20:20>•Ž‘ Œ¶“Yˆ© ”‚ˆé”{ˆÜŒø!<wait=key><del=this>
+<trust=f:20:50>‹^v‘€Œñ Ð ‹r‰˜Œø?<n>cˆ© Ú€”‚Œø<wait=key><del=this>
+<type=think>cŒ¶“Y?!<n>Šd Œ¾ÅÃ ØÂ ˆÕÔŠm?!<wait=key><del=this>
+<trust=f:0:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:0:50>ÔŠóŒw Šd Œj ‹Šáˆ«c<n>ˆÐêÃ A CÃ ˆÍç<wait=key><del=this>
+Èc<n>ÔŠóŒwŠÊ Ð ‹n<wait=key><del=this>
+<trust=f:1:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:1:50>“T×Ôç! ]Œ«“R!<n>–Œ¶ˆ© cˆ© ”{ C CÃ‰˜?<wait=key><del=this>
+È. ÔŠóŒw<n>Šd Œj ‹z C Cö<wait=key><del=this>
+<trust=f:2:20>”¶p•B W‘O‰c<wait=key><del=this>
+<trust=f:2:50>”x‘ ŒÀc<wait=key><p>]Œ«“R‹ûŒñ<n>”‚ˆé”{ A Þˆâ‘ ?<wait=key><del=this>
+‰E, ‰EŠó“úˆ©bŽ!<n>Ô W‘OŠÊ ‰ŒaˆÜ ˆ«Šä”x‘  ÒÎŽ<wait=key><del=this>
+<trust=f:3:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:3:50>Ô ×Âc<n>]Œ«“Rˆ© ŠSŽ» ’BŒsŒjŠS?<wait=key><del=this>
+’³Œ«ŠS‹^ ‹^v‘Š!<n>Ô × ‰× ŽÂˆ©p ˆÕ ˆ¸ÀŠ×‰˜c<wait=key><del=this>
+<trust=f:4:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:4:50><type=anger>Œ¶“Y TŽµ Œø!<n>“R, “T×Ô Ž§‰ ˆÍçŒø!<wait=key><del=this>
+‰ŒaˆÜ ”«‹“ˆ± ”p™ ×Â ÎŠ×ç. Œ¶“Y<n>“T×Ö ˆÏ Ž‘pÔ‘ ŒÀc<wait=key><del=this>
+<trust=f:5:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:5:50>cÔŠóŒw‹ûŒñ<n>cˆ© ŽÂˆ©n ×Ã Ö“bˆˆâ‘ c<wait=key><p>‰ŒaˆÜ Ž§ˆª”x‘  ÒŠÈŠm. ]Œ«“R?<wait=key><del=this>
+‹hˆ°Ôç<wait=key><p>‰ˆÕ‹^ ‰[í•B<n>ŽÂˆ©n ×Ôˆâ‘ <wait=key><del=this>
+<trust=f:0:20>È. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:0:50>ŠSŒF ‹ûÖÔ w–ŠÊ ˆÍŒF ù‰\”xŒñ<n>öŠÈ ‘ÒÔ ‹@ ˆù ‹¯Œ¹‰˜?<wait=key><del=this>
+‰ˆÏc<wait=key><p>ù‰\”x‰Œ •F‹Š<n>ï‘Ò Šá ‰×ŠS ˆù ‹¯Œ¶Š×‰˜<wait=key><del=this>
+<trust=f:6:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:6:50>d Šl‘M”z ’]”xŠÊ ˆÍç! ‹ûÖ<n>ŽÛÀŒy ‘_Œ¾‘_Œ¾”xˆõ ÞÀŒñŽµ<wait=key><del=this>
+Šd, Šl‘M”z ’]Ô‹ûŠ×<n>“T×Ô‹ûˆõ Ž§ˆª”zŠáˆõ!<wait=key><del=this>
+<trust=f:7:20>”¶p•B W‘O‰c<wait=key><del=this>
+<trust=f:7:50>¯ŠóJŽµ ŠäŒl”z Šs‹ûŒñ<n>¸W‘O ÎŠ×ˆâ‘ ?<wait=key><del=this>
+ÎŠ×ç. ÔˆÏ “Ð ‰j”ž “ô‰Œ 1000ˆ»ÀŠá<n>‹@ •F‹‘ Ž”ºÔ‹ûˆõ<wait=key><del=this>
+<trust=f:8:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:8:50>¯”’”z Ž”º×AŒx<n>‹@ Ú“aiŒ«ŠÊ ˆÜ ƒŒw ‹ûÖÔ‘ ?<wait=key><del=this>
+‰ˆÕ‹^ ”z‹^ˆ© Þ‘ !<wait=key><p>’³Œ«ŠS‹^ ‹“EåÎ?<n>‰× rˆª”z Ž”ºÔ‹ûŠ×‰˜?<wait=key><del=this>
+<trust=f:9:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:9:50>Œ¶“YÏ ˆî‘O Ž‘‘MÔ<n>”ÖÈ ‹@ ˆù ‹¯ŒjŒø!<wait=key><del=this>
+‰ˆÏ ‰Œa‘ ! öŠÈ ‘Ò‹^<n>‰Šr ‘ ŠS’­ A CŠÊ W‘Oç<wait=key><del=this>
+<trust=f:10:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:10:50><type=think>ˆù ‹¯Œ¸Šác<wait=key><p>ŒøŒ«ˆâ‰aŠS. Te ‹îÔ‘ ?<wait=key><del=this>
+<type=think>i, ŒéŒ¶Î‹^ ”N‘MÔ O”zˆÑ<wait=key><p>‰ ‘M‹^Œw ˆù ‹¯Œ¶ŠÊ<n>Ž”ºÔ‹ûŠÊ ˆÍˆâ‘ . “ºŒºCö<wait=key><del=this>
+<trust=f:1:20>È. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:1:50>‹^v‘€â! ”piŒ­<n>‰Œ\ Ô Ž‘ŒB‹^ Ðr”{ A ÞÃ ˆÍç<wait=key><del=this>
+‰ŒJ. ŒÀŒÀ’© ÒÂ W‘O‘ ŒÀ<n>–Œ¶‹ûŒñ!<wait=key><del=this>
+<trust=f:6:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:6:50>”piŒ­Ô ˆÎ‘M”xŠÊ ˆÏ<n>]Œ«“RŽ|Ö ‘ƒ ÓÚŠÊ‹N?<wait=key><del=this>
+Š±, Š±ˆ© ‰ŒJ!<n>Ô ×‹^ ‘_‰‡Â ˆÎ‘M”xˆõ Þö!<wait=key><del=this>
+<trust=f:11:20>”¶p•B ˆÎ‘M‹pŠÊ‰c<wait=key><del=this>
+<trust=f:11:50>ˆÎ‘MÔ‹ûˆõ ”xŠ× ‹¸iŒ«ŠÊ‰c<n>”piŒ­Ô 8Ž–Ô ‹oÃ ‹¯ ŒÃÔç<wait=key><del=this>
+iŽG! ‰ ÔŽ ŒÃ”xŒñ<n>ˆ©ŒÀ Ð ‹z ˆÍç!<wait=key><p>‰, ‰‹¯ ×ÀŠá<n>Ô Ôç‰Œˆ© ‹@ “T×Ô‹ûŠ×‰˜!<wait=key><del=this>
+<trust=f:12:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:12:50>ö‹ÃˆÜ ”‚ ‘€ˆõ vÂˆÑc<n>ˆÎ‘M”x‰ŒŒÀ ”‚Ž¹ ’eŒñÔ Ð ŽµŠ×‰˜!<wait=key><del=this>
+’DŽÂ! Ô Ôç‰Œ<n>‹’ˆõŒÀ ÞÃ C Cö!<wait=key><del=this>
+<trust=f:13:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:13:50><type=think>‘ ‰‡Ô ƒŒw ’DcçŒø!<n>Š•”D ŠõcŒw Œø‹w ”‚”pçŒø!<wait=key><del=this>
+é‰›! Œ¶“Y b ”xŠÊ ˆÍç?<wait=key><p>Ð ‹n. ‘ ‰‡Â<n>‘‰Ž”z Ôç‰Œ ‘‰ÔŠ×‰˜!<wait=key><del=this>
+<trust=f:14:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:14:50>ˆÎ‘MŒÀ ”xŠÊ ˆÕÔŠm?<wait=key><p>cuÐ”xŠá<n>‰ŠóŠÊ ‰ŒZ RŽÂÔ ÎŠ×E‘ <wait=key><del=this>
+ŒéŒ¶Î‹^ ‰Œa‘ ?<n>Ô ×Â ‰Šr ‘ ŠS’­ A Cö<wait=key><del=this>
+<trust=f:2:20>Š. “T×ÔŠŽ<wait=key><del=this>
+<trust=f:2:50>”x‘ ŒÀ ‘E”ù‹ûŒñ ‹^™ A ÞÃ ˆÍbŽ<n>‰Œa‘{. Šä‡ Æ?<wait=key><del=this>
+ˆér”‰‰aŠS. ]Œ«“R!<wait=key><p>c”x‘ ŒÀ<n>‰×ŠS ŽÂˆ©n W‘O× “ƒ‹N?<wait=key><del=this>
+<trust=f:7:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:7:50>W‘OŠÊ ’©”{ A C‘ <n>Ð ‰ŒJ, Šä‡?<wait=key><del=this>
+YŒyÔŠá. ‹ûÖ<n>ÎTŒ¶ ˆ÷Œ@”z ×Ô‹û‹^ ŒÃÔ‘ <wait=key><del=this>
+<trust=f:11:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:11:50>‰ŒJ? iŽG‹ûŒñ<n>ö‹ÃˆÜ ”{ A Þ‘  ÒÃ‰˜?<wait=key><del=this>
+‰ˆÏ Î‘¡ Œü‹û. ”piŒ­<wait=key><p>‰—Â Ž‘‘MÔ Þö ÀÔŠ× ŒÃÔç<wait=key><del=this>
+<trust=f:15:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:15:50>×Ô ‹@ ’Ç‘ ‰Œ ‘GJ<n>–Œ¶ˆ© ”‚ˆé”xŠÊ ˆÜ ö‹¯?<wait=key><del=this>
+‹hˆ°ÔŠá! ’³Œ«ŠS<n>ÎTŒJ‹^ ˆ°Šï”x‰Œ •F‹“ö ÀÔŠ×‰˜<wait=key><del=this>
+<trust=f:16:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:16:50>ØŒõ ˆ÷Œ@”z ˆÍçŒø<n>Šä‡, ö‹ÃˆÜ ”‚ ÉŒø!<wait=key><del=this>
+‰ŒXˆõ v‘ ŒÀ<n>ŠS‹^ ÔŒZ ˆî–ŠÊ ’\ÅÔ‰c<wait=key><del=this>
+<trust=f:17:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:17:50>Šä‡Ô ö‹ÃˆÜ ”{‘ <n>”z¢ ‘ ’ÙÀ‹^Œx ”x‘ <wait=key><del=this>
+ÎT“¸ “T×Ö ˆÕ ˆ¸‰c<wait=key><del=this>
+<trust=f:3:20>È. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:3:50>ö‹ÃˆÜ ”{ A CÃ‰˜ ’³Œ«ŠS?<wait=key><del=this>
+ÔˆÕ‹^ ÖUÖ‹N<n>ˆ÷Œ@”xŠáŒñ ‹^v‘€â<wait=key><del=this>
+<trust=f:8:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:8:50>cˆ© Œ¾ÅJ ˆÑŒ¶ŠÊ‹N<n>é‰› Àˆõ ˆ©ŠÊ ˆÜ ö‹¯ ’³Œ«ŠS?<wait=key><del=this>
+‘jÎ. ÔŠóŒw Šd Œj ‹w‰Ž<n>‘d ‰ŒXŠ×‰˜<wait=key><del=this>
+<trust=f:12:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:12:50>‰Œ\ –Œ¶ˆ© ‹^v‘€ŠÊ ˆÏ ö‹»‰˜?<wait=key><del=this>
+ŠsŠá˜ ‘OÐÔŠ<wait=key><p>ŽÂˆ©n × ˆ¸‘ ŒÀ<n>‘jÎ. ŠS‹^ ‹^™ˆÜ<wait=key><del=this>
+<trust=f:15:20>”¶p•B W‘O‰c<wait=key><del=this>
+<trust=f:15:50>”x‘ ŒÀ ‰Šr ‘ ŠS’­ A C‘ <n>Ð ‰ŒJ ’³Œ«ŠS?<wait=key><del=this>
+ŠïU”x‘ <wait=key><p>”x‘ ŒÀ Šä‡<n>ˆ«Šä”z ×Â ÎŠÙ ˆÕ ˆ¸Â‹N?<wait=key><del=this>
+<trust=f:18:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:18:50>Œ¶“Y b‹û‹^ ”{‰˜Œø?<n>”‚ç ”{ × ÞöŒø?<wait=key><del=this>
+È. ØŒõ ÞÃ ˆÍç<wait=key><p>Šá‹“ •Ž‘ŠÜÃ ‰ŒŠáŒ¶ˆõ ÞÃˆÑ?<wait=key><del=this>
+<trust=f:19:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:19:50>Î‘¡ ‹ˆÔç‰Œˆ© ÞŠS À‰c<n>‹“ö Àâ‰áŠS. ’³Œ«ŠS<wait=key><del=this>
+Šó’ bŽÂ ˆ©‘ ŒÀ<wait=key><p>‰×ŠS ŽÂˆ©n Ôç‰Œ×ˆÑ?<n>À“•Â ŒÃÔç<wait=key><del=this>
+<trust=f:4:20>È. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:4:50>¯‰Œ‹ûŒñ •FÃ ”~’mŽµ<n>”–’m ŠSˆ©â!<wait=key><del=this>
+]Œ«“R, r”xŒñ Ð ‹nŒø?<n>•Ž‘ Œ¶“YŠÊ ‘ ‰‡ A’d n‘‰”‚Œø!<wait=key><del=this>
+<trust=f:9:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:9:50>‘¢‘M”‚<n>•Ž‘ŠÊ ‰ŒaˆÜ ”Š‹h”x‘  ÒÎ!<wait=key><del=this>
+<type=anger>•Ž‘Š×‰˜ Ó A ÞöŒø!<n>ÔˆÏ “T Ž‘ˆÏÔçŒø!<wait=key><del=this>
+<trust=f:13:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:13:50>¯‰ŒŒ® ‰Œ”ÀŒw ƒ‰áŠÊ ˆÕÔ<n>•Ž‘ˆ© ÎŠÚ‰˜?<wait=key><del=this>
+¯, ¯‰ŒŒ® ‰Œ”ÀŒwŒø?!<wait=key><p>ÎTŒ¶ Œ¶“Y‹û‹^<n>‰ˆÏ •F‹“öŒø~<wait=key><del=this>
+<trust=f:16:20>”¶p•B W‘O‰c<wait=key><del=this>
+<trust=f:16:50>‰ˆÑŒw ŠJŠd‘¢ Òˆâ‘  Œ¶“Y?<wait=key><del=this>
+T, YŒyÔ‘ Œø!<n>ŠV‰GJ ŒÊŽµŠÊ ˆÜ •Ž‘çŒø!<wait=key><del=this>
+<trust=f:18:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:18:50>‰ŒaŠáŒñ ö‹ÃˆÜ‹‘ ”‚çˆâŠ<n>Œ¶“Y‹^ ‰aˆîŒÀ ”{ ˆÏ ÎŠ×‘ ?<wait=key><del=this>
+<type=anger>YŒyÔ‘ Œø!<n>‘ ‰‡Ô ƒŒw •Ž‘ˆ© ŠSŽ» ’BŒsçŒø!<wait=key><del=this>
+<trust=f:20:20>Šd Œj ‹z A‹^ Cˆâ‰aŠS<wait=key><del=this>
+<trust=f:20:50>–Œ¶ˆ© TDÃ ”{ A ÞÃ‘ c<n>Ž§ˆª”‚ Éçˆâ‰aŠS<wait=key><del=this>
+ŒéŒ¶Îˆ© Ž§ˆª”‚ ‘‚ŠáŒñ<n>Œ¶“YŠÊ ÐrÔçŒø!<wait=key><del=this>
+<trust=f:5:20>È. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:5:50>ŒéŒ¶Î‹ûŒñ<n>‘jÂ §Ô Þ‘  ÒÃ‰˜?<wait=key><del=this>
+Ï‘ ”‚ ‘€ŠÊ ˆÕÂ ‰ŒŽ„ŠSc<n>]Œ«“R, ÔˆÏ ‰× •F‹“ˆâ‰aŠS<wait=key><del=this>
+<trust=f:10:20>‰ŒJ. “T×ÖˆÑ<wait=key><del=this>
+<trust=f:10:50>R·Œw  ÀÔŠÊ‹N ŒéŒ¶Î?<n>”‚ˆé”{ §Ô‹û‹^ Þö?<wait=key><del=this>
+‰ˆÏ Ôç‰ŒŒ® ‹“Â ŠáÅÔŠá<n>‘ ‰‡Â öŒoŠáˆõ…J ”{ A C‰aŠS<wait=key><del=this>
+<trust=f:14:20>È. “T×Ôç!<wait=key><del=this>
+<trust=f:14:50>ŒéŒ¶Î, ‰Šr ‘ ŠS’­ A CŠáˆõ<n>û‰eJ ºR ÞŠÊ‹N?<wait=key><del=this>
+‰Šó‹^ Œ¾’Dˆ©‘ Š×‹û<wait=key><p>‘MŒÃÔ‘ , ‹z Šá ·¸ŠV ŽÂˆåÔ‰aŠS<n>öŒoŠáŠÊ ˆÑ ÓŒñŽµ‹^c<wait=key><del=this>
+<trust=f:17:20>”¶p•B W‘O‰c<wait=key><del=this>
+<trust=f:17:50>”x‘ ŒÀ ö‹ÃˆÜ‹‘ ”‚ˆé”{ ŽÈÔ‘ ?<wait=key><del=this>
+‰ŒJ. ÔŠóŒw ‹wŒñ<n>‹@ ŽÂˆ©n ×Ô ‹r ˆÕ ˆ¸‰aŠS<wait=key><del=this>
+<trust=f:19:20>”¶p•B W‘OŠ<wait=key><del=this>
+<trust=f:19:50>‰ŒZˆ©?<n>Šs”z“ŠÊ ˆ«Šä”z W‘OåÎ<wait=key><del=this>
+’³Œ«ŠSŠÊ ŠSŒ® ‰EŠó“úˆ©”xŠÊ‰aŠS<n>öŒj˜ ˆÏ öŒj˜ ˆÕÔŠá<wait=key><del=this>
+<trust=f:20:20>“T×ÔçŒø!<wait=key><del=this>
+<trust=f:20:50>‰O’EÎŒø. Œ¶“Yˆ© ÞöŒø!<wait=key><p>ŒéŒ¶ÎŠÊ<n>Ðr”‚‹^ ‹nŒø<wait=key><del=this>
+Œ¶“Y, Œ¾ÅÂ ‰ŒŽ„‘ ŒÀ<n>‹^vç ”{ Ž‘ŒBÃ ’Cˆª”z ˆÕÔ ÎŠ×Šm?<wait=key><del=this>

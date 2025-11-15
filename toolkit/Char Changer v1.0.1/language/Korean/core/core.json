@@ -1,0 +1,85 @@
+﻿{
+	"Content-Type"       : "text/json; charset=UTF-8",
+	"Project-Id-Version" : "[Open Source] VCF Converter",
+
+	"Language Pack information" :
+	{
+		"Language name"      : "한국어",
+		"Translator"         : "KIM DONG HAN",
+		"Last update"        : "2020-10-07 14:07"
+	},
+
+	"JSON validate" : [
+		"https://jsonlint.com/",
+		"https://jsonformatter.curiousconcept.com/"
+	],
+
+	"<msg.replace>" :
+	{
+		"msgid"  : "default",
+		"msgstr" : "value"
+	},
+
+	"<section>" :
+	[
+		"thousands.number",
+		"build.info"
+	],
+
+	"thousands.number" :
+	[
+		{
+			"comment" : "thousands separator (int64_t max)",
+			"default" : "1,234,567,890,123,456,789",
+			"value"	  : ""
+		},
+		{
+			"comment" : "decimal point",
+			"default" : ".",
+			"value"	  : ""
+		}
+	],
+
+	"build.info" :
+	[
+		{
+			"comment" : "Build version",
+			"type"    : "v{1.x.x} ({YYYY}-{MM}-{DD})",
+			"default" : "v{0} ({1}-{2:0>2}-{3:0>2})",
+			"value"	  : "버전 {0} ({1}년 {2:0>2}월 {3:0>2}일)"
+		},
+		{
+			"comment" : "Build information",
+			"default" : "license",
+			"value"	  :
+			[
+				"http://cmdlist.com/ \r\n",
+				"\r\n",
+				"이 프로그램은 오픈소스로 공개하고 있습니다.\r\n",
+				"\r\n",
+				"컴파일러 :\r\n",
+				"WinLibs standalone build of GCC and MinGW-w64 for Windows\r\n",
+				"Win64 : GCC 10.2.0 + MinGW-w64 8.0.0 - release 1\r\n",
+				"http://www.winlibs.com/ \r\n",
+				"\r\n",
+				"GCC, the GNU Compiler Collection\r\n",
+				"GCC was originally written as the compiler for the GNU operating system.\r\n",
+				"https://gcc.gnu.org/ \r\n",
+				"\r\n",
+				"RapidJSON (버전 1.1.0) : Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip. All rights reserved.\r\n",
+				"A fast JSON parser/generator for C++ with both SAX/DOM style API.\r\n",
+				"https://rapidjson.org/ \r\n",
+				"\r\n",
+				"{{fmt}} (버전 7.0.3) : Copyright (c) 2012 - present, Victor Zverovich.\r\n",
+				"A modern formatting library.\r\n",
+				"https://fmt.dev/ \r\n",
+				"\r\n",
+				"Win32++ (버전 8.7.0) : Copyright (c) 2005-2019  David Nash.\r\n",
+				"Win32++ is simple and easy to understand framework for developing Win32 applications using C++.\r\n",
+				"In CResizer class : Source/src/lib/resizer.cpp, resizer.h, rect.h\r\n",
+				"http://win32-framework.sourceforge.net/ \r\n",
+				"https://sourceforge.net/projects/win32-framework/"
+			]
+		}
+	]
+}

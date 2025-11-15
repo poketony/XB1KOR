@@ -1,0 +1,8 @@
+<SB>
+1. quickbms xenoblde ver2로 pkb pkh 선택하고 pkb 선택해서 압축해제
+2. 압축해제된 .sb 파일을 Xenoblade 1 Script Tool.exe로 문서화(S-JIS에서 UTF-8 저장하는 거 잊지 말 것)
+3. 한국어 번역 후 Char Changer로 S-JIS 문서에 이식
+4. Xenoblade Script Tool로 .sb 파일 리빌드 
+(--strings-only 쓴 후 맨 끝 패딩 데이터를 잘라내거나 추가해서 원본 파일과 크기 맞추기)
+
+VS -> 컷신 관련

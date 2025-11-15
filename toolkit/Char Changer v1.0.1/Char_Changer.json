@@ -1,0 +1,17 @@
+﻿{
+	"options": {
+		"application.name": "Char_Changer.exe",
+		"language.name": "Korean",
+		"last update": "2025-11-13 (Thursday), 23:20:22",
+		"application.cmdshow": "1",
+		"application.left": "-8",
+		"application.top": "33",
+		"application.width": "1299",
+		"application.height": "911",
+		"language.dialog.width": "698",
+		"language.dialog.height": "547",
+		"json.dialog.width": "893",
+		"json.dialog.height": "547",
+		"plug-in.filename": "plug-in\\XENOBLADE KOR-JPN.json"
+	}
+}

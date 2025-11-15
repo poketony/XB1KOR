@@ -1,0 +1,8 @@
+@echo off
+mkdir "jp_decompiled txt"
+
+for %%f in ("jp\*.dat") do (
+    ScriptTool.exe decompile "%%f" "jp_decompiled txt\%%~nf"
+)
+
+pause

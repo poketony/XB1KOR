@@ -1,0 +1,62 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+POOL_INT,1
+CONST_1
+PLUGIN,0
+POOL_FIXED,1
+POOL_FIXED,0
+POOL_INT,2
+CONST_3
+PLUGIN,1
+
+ID Pool:
+Index,Value
+0,_main_
+1,wait
+2,frame
+3,snd
+4,playSeCommon
+5,user\smj\smj_03
+
+Int Pool:
+Index,Value
+0,0
+1,270
+2,465
+
+Fixed Pool:
+Index,Value
+0,5.73972e-42
+1,3.44383e-40
+
+String Pool:
+Index,Value
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+
+Plugin Imports:
+Index,Plugin Name,Function
+0,wait,frame
+1,snd,playSeCommon
+
+OC Imports:
+Index,Name
+
+System Attribute Pool:
+Index,Name
+0,user\smj\smj_03
+1,
+
+User Attribute Pool:
+Index,Name
+

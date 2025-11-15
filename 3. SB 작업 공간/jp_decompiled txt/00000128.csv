@@ -1,0 +1,138 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+POOL_STR,0
+CONST_1
+PLUGIN,0
+CONST_0
+PLUGIN,1
+CONST_2
+POOL_STR,1
+CONST_I_W,258
+GET_OC,0
+ST_STATIC,0
+POOL_FIXED,0
+LD_STATIC,0
+SETTER,7
+POOL_FIXED,1
+LD_STATIC,0
+SETTER,8
+POOL_FIXED,2
+LD_STATIC,0
+SETTER,9
+CONST_0
+LD_STATIC,0
+SEND,10
+POOL_INT,2
+LD_STATIC,0
+SETTER,11
+CONST_3
+POOL_STR,2
+CONST_I_W,258
+GET_OC,0
+ST_STATIC,1
+POOL_FIXED,0
+LD_STATIC,1
+SETTER,7
+POOL_FIXED,3
+LD_STATIC,1
+SETTER,8
+POOL_FIXED,2
+LD_STATIC,1
+SETTER,9
+POOL_INT,2
+LD_STATIC,1
+SETTER,11
+CONST_0
+LD_STATIC,1
+SEND,10
+POOL_FIXED,4
+CONST_1
+LD_STATIC,1
+SEND,13
+CONST_3
+CONST_1
+LD_STATIC,1
+SEND,14
+POOL_INT,4
+CONST_1
+PLUGIN,2
+CONST_0
+PLUGIN,3
+
+ID Pool:
+Index,Value
+0,_main_
+1,deb
+2,put
+3,cfs
+4,eventStart
+5,npc1
+6,unit
+7,x
+8,y
+9,z
+10,setGround
+11,dir
+12,pc1
+13,walkR
+14,walkIdleTime
+15,wait
+16,frame
+17,eventEnd
+18,user\smj\smj_10
+
+Int Pool:
+Index,Value
+0,0
+1,2
+2,180
+3,3
+4,120
+
+Fixed Pool:
+Index,Value
+0,3.44383e-41
+1,0
+2,-nan
+3,5.73972e-42
+4,1.14794e-41
+
+String Pool:
+Index,Value
+0,"smj_10ŠJŽn"
+1,"npc"
+2,"pc"
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+0,Int,0,0,0,0
+1,Int,0,0,0,0
+
+Plugin Imports:
+Index,Plugin Name,Function
+0,deb,put
+1,cfs,eventStart
+2,wait,frame
+3,cfs,eventEnd
+
+OC Imports:
+Index,Name
+0,unit
+
+System Attribute Pool:
+Index,Name
+0,user\smj\smj_10
+1,
+
+User Attribute Pool:
+Index,Name
+

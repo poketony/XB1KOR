@@ -1,0 +1,198 @@
+﻿{
+	"Content-Type"       : "text/json; charset=UTF-8",
+	"Project-Id-Version" : "[Open Source] VCF Converter",
+
+	"Language Pack information" :
+	{
+		"Language name"      : "English (United States)",
+		"Translator"         : "KIM DONG HAN",
+		"Last update"        : "2020-10-06 19:07"
+	},
+
+	"JSON validate" : [
+		"https://jsonlint.com/",
+		"https://jsonformatter.curiousconcept.com/"
+	],
+
+	"<msg.replace>":
+	{
+		"msgid"  : "English",
+		"msgstr" : "한국어"
+	},
+
+	"<section>":
+	[
+		"file.dialog",
+		"viewer.dialog",
+		"viewer.message",
+		"viewer.columns",
+		"viewer.menu",
+		"viewer.context.menu",
+		"viewer.menu.help",
+		"language.dialog",
+		"language.columns",
+		"json.dialog",
+		"json.columns",
+		"about.dialog",
+		"quit.dialog"
+	],
+
+	"file.dialog":
+	{
+		"VCF Files (*.vcf)|*.vcf|All Files (*.*)|*.*|"	: "",
+		"Excel Files (*.xls)|*.xls|"					: ""
+	},
+
+	"viewer.dialog":
+	{
+		"VCF Viewer"						: "",
+		"VCF file name (drag and drop) : "	: "",
+		"Browse..."							: " Browse...",
+
+		"JSON Plug-In file name : "			: "",
+		"Select..."							: " Select...",
+
+		"Search string : "					: "",
+		"Find" 								: " Find",
+		"Regular expression (F4)"			: "",
+		"Find within (F6)"					: "",
+		"Reset"								: " Reset",
+
+		"&Read VCF file"					: " &Read VCF file",
+		"&Language..."						: "",
+		"&Exit"								: " &Exit"
+	},
+
+	"viewer.message":
+	{
+		"{}Bytes"											: "",
+		"{}KB"												: "",
+		"{}MB"												: "",
+		"{}GB"												: "",
+
+		"The VCF file does not exist. : \"{}\""				: "",
+		"The JSON plug-in file does not exist. : \"{}\""	: "",
+		"VCF File is invalid. Aborting. : \"{}\" ({})"		: "",
+		"Cannot read VCF file. : \"{}\""					: "",
+
+		"Read RAW data... ({}s)"							: "",
+		"Replace RAW data... ({}s)"							: "",
+		"Decoding RAW data... ({}s)"						: "",
+		"Converting Unicode text... ({}s)"					: "",
+		"The Encoding type is not supported. : \"{}\""		: "",
+		"Splitting VCF data... ({}s)"						: "",
+		"Analyzing VCF data... ({}s)"						: "",
+
+		"Nothing to search."								: "",
+		"The regex is not valid. : \"{}\""					: "",
+
+		"Searching... ({}s)"								: "",
+		"Ready ({}s)"										: "",
+		"Sorting by {}. ({}s)"								: "",
+		"Ready"												: "",
+		" {} / {} items"									: "",
+
+		"Apply changes to language. : {}"					: "",
+
+		"Save as Excel file : \"{}\""						: ""
+	},
+
+	"viewer.columns":
+	{
+		"{search by}"			: "Search by",
+		"{number}"				: "No.",
+		"Full name"				: "",
+		"Name"					: "",
+		"Cell phone number"		: "",
+		"Home phone number"		: "",
+		"Work phone number"		: "",
+		"Voice phone number"	: "",
+		"Work fax number"		: "",
+		"Home e-mail"			: "",
+		"Work e-mail"			: "",
+		"E-mail"				: "",
+		"Organization"			: "",
+		"Title"					: ""
+	},
+
+	"viewer.menu":
+	{
+		"&File"					: "",
+		"&Save as Excel..."		: "",
+		"E&xit\tCtrl+F4"		: "",
+
+		"&Options"				: "",
+		"&Languages...\tF10"	: "",
+
+		"&Help"					: "",
+		"&About...\tF1"			: ""
+	},
+
+	"viewer.context.menu":
+	{
+		"&Display by"					: "",
+		"&Sort by"						: "",
+		"&Ascending"					: "",
+		"&Descending"					: "",
+		"D&elete item\tDelete"			: "",
+		"Display &all\tESC"				: ""
+	},
+
+	"viewer.menu.help":
+	{
+		"Contains commands for file"			: "",
+		"Contains commands for options"			: "",
+		"Contains commands for help"			: "",
+
+		"Save as Excel file"					: "",
+		"Quit the application"					: "",
+		"Select language"						: "",
+		"About the application"					: ""
+	},
+
+	"language.dialog":
+	{
+		"Select language"		: "",
+		"&Apply"				: " &Apply",
+		"&Close"				: " &Close"
+	},
+
+	"language.columns":
+	{
+		"Language name"			: "",
+		"Folder name"			: "",
+		"Translator"			: "",
+		"Last update"			: ""
+	},
+
+	"json.dialog":
+	{
+		"Select JSON Plug-In"	: "",
+		"&Select"				: " &Select",
+		"&Close"				: " &Close"
+	},
+
+	"json.columns":
+	{
+		"VCF format"			: "",
+		"File name"				: "",
+		"Creater"				: "",
+		"Last update"			: ""
+	},
+
+	"about.dialog":
+	{
+		"About"						: "",
+		"VCF Viewer (64-bit)"		: "",
+		"Build version : {}"		: "",
+		"&Close"					: " &Close"
+	},
+
+	"quit.dialog":
+	{
+		"Confirm quit?"						: "",
+		"&Yes"								: " &Yes",
+		"&No"								: " &No",
+		"Are you sure you want to quit?"	: ""
+	}
+}

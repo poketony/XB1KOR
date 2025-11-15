@@ -1,0 +1,42 @@
+자세히 들려주시겠어요?<wait=key><del=this>
+자세히 말해 봐<wait=key><del=this>
+자세히 들려줄 수 있을까?<wait=key><del=this>
+자세히 말해 줄 수 있겠나?<wait=key><del=this>
+자세히 말해 줄래?<wait=key><del=this>
+용사한테 다 말해모!<wait=key><del=this>
+상세하게 들려주겠나?<wait=key><del=this>
+죄송해요. 지금은 좀…<wait=key><del=this>
+미안. 지금은 좀 곤란해<wait=key><del=this>
+미안. 나중에 들어 줄게<wait=key><del=this>
+미안하군. 나중에 이야기하지<wait=key><del=this>
+미안. 지금은 안 돼<wait=key><del=this>
+미안해모. 지금은 무리야모<wait=key><del=this>
+미안하지만 지금은 사명을 다할 때다<wait=key><del=this>
+걱정 마세요. 금방 끝낼게요<wait=key><del=this>
+그래. 얼른 끝내고 올게<wait=key><del=this>
+알았어. 열심히 할게<wait=key><del=this>
+나만 믿어. 금방 끝내 주지<wait=key><del=this>
+알았어. 반드시 완수할게<wait=key><del=this>
+식은 죽 먹기야모! 리키는 용사니까모!<wait=key><del=this>
+알았다. 기대해도 좋다<wait=key><del=this>
+다행이다<wait=key><p>이걸로 해결됐네요<wait=key><del=this>
+이걸로 한 건 해결했어<wait=key><del=this>
+다행이다<wait=key><p>이걸로 한시름 놓았네<wait=key><del=this>
+신경 쓰지 마. 별거 아니니까<wait=key><del=this>
+잘됐네<n>도움이 됐다니까<wait=key><del=this>
+다행이야모~<wait=key><p>정말 다행이야모~<wait=key><del=this>
+내가 도움이 됐을지 모르겠구나<wait=key><del=this>
+뭔가 곤란해하는 것 같아…<wait=key><del=this>
+뭐야?<wait=key><p>왜 저렇게 울상이지?<wait=key><del=this>
+어라?<wait=key><p>뭔가 심각한 일일까?<wait=key><del=this>
+음?<wait=key><p>고뇌가 얼굴에 드러나 있군<wait=key><del=this>
+표정이 안 좋은걸…<n>고민이 있는 걸까?<wait=key><del=this>
+<type=anger>뭐야모?!<wait=key><p>표정이 안 좋아 보여모!<wait=key><del=this>
+<type=think>보아하니…<n>깊은 고민을 안고 있구나…<wait=key><del=this>
+보통 일이 아니네요<wait=key><del=this>
+그건 꽤 골 때리는데<wait=key><del=this>
+그거 걱정이네<wait=key><del=this>
+문제로군<wait=key><del=this>
+…큰일이네<wait=key><del=this>
+그건 큰일이야모!<wait=key><del=this>
+참으로 곤란하겠구나<wait=key><del=this>

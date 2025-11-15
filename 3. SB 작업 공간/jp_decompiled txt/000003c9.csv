@@ -1,0 +1,44 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+
+ID Pool:
+Index,Value
+0,_main_
+1,scene\0701c7amq
+
+Int Pool:
+Index,Value
+0,0
+
+Fixed Pool:
+Index,Value
+
+String Pool:
+Index,Value
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+
+Plugin Imports:
+Index,Plugin Name,Function
+
+OC Imports:
+Index,Name
+
+System Attribute Pool:
+Index,Name
+0,scene\0701c7amq
+1,
+
+User Attribute Pool:
+Index,Name
+

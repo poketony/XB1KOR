@@ -1,0 +1,14 @@
+BIN -> TXT
+python xeno_caps_tool.py unpack <input.bin> <output.txt> --encoding cp932 --fps 30
+
+TXT -> BIN
+python xeno_caps_tool.py repack <input.txt> <output.bin> --encoding cp932
+(BIN: 첫 자막 전 2바이트 ~ 마지막 자막 후 헥스 b8 18 00)
+
+rev 안에 있는 .tpl 이미지는 복호화 상태에서는 안 나옴
+다 작업하고 암호화 상태에서 족쳐버리자
+또 프로그램의 기능이 있으니까 함부로 파일 이름 건들지 말자(확장자는 OK)
+・, ･를 ·로
+원문과 다르게 할 거라면 먼저 한글 폰트 유무 확인
+(used_hangul 보든 Switch Toolbox로 폰트 테스트하든 알아서)
+(DE 다이나믹 컷신 안에 있는 글자는 전부 있으므로 작업에 큰 문제는 없을 것)

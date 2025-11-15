@@ -1,0 +1,5 @@
+# 언팩: BIN -> TXT
+python xeno_caps_tool.py unpack XENO_PROLOGUE XENO_PROLOGUE.txt --encoding cp932 --fps 30
+
+# 리팩: TXT -> BIN
+python xeno_caps_tool.py repack XENO_PROLOGUE.txt XENO_PROLOGUE.bin --encoding cp932

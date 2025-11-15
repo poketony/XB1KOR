@@ -1,0 +1,76 @@
+Header:
+Version,2
+Flags,3
+isLoaded,0
+
+Function Pool:
+_main_
+Args,Field 4,Field 6,Field 10
+0,0,0,0
+
+Opcode,Operand
+POOL_STR,0
+CONST_I_W,257
+GET_OC,0
+ST_STATIC,0
+POOL_FIXED,0
+LD_STATIC,0
+SETTER,3
+POOL_FIXED,1
+LD_STATIC,0
+SETTER,4
+POOL_FIXED,2
+LD_STATIC,0
+SETTER,5
+CONST_0
+LD_STATIC,0
+SETTER,6
+CONST_0
+LD_STATIC,0
+SEND,7
+
+ID Pool:
+Index,Value
+0,_main_
+1,player
+2,unit
+3,x
+4,y
+5,z
+6,dir
+7,setGround
+8,user\smj\smj_04
+
+Int Pool:
+Index,Value
+0,0
+
+Fixed Pool:
+Index,Value
+0,9.28686e-39
+1,8.1504e-40
+2,1.14794e-41
+
+String Pool:
+Index,Value
+0,"player"
+
+Static Variables:
+Index,Type,inArray,Length,Value,Field 8
+0,Int,0,0,0,0
+
+Plugin Imports:
+Index,Plugin Name,Function
+
+OC Imports:
+Index,Name
+0,unit
+
+System Attribute Pool:
+Index,Name
+0,user\smj\smj_04
+1,
+
+User Attribute Pool:
+Index,Name
+

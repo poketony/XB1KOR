@@ -1,0 +1,294 @@
+교환해 줄 거야?<wait=key><del=this>
+이런 걸 받아도 괜찮을까?<wait=key><p>미안하니까 이것도 줄게<wait=key><del=this>
+또 보자!<wait=key><del=this>
+아… 교환이니?<wait=key><del=this>
+이거 대단한데!<wait=key><p>그렇지…! 이것도 줄게<wait=key><del=this>
+다음에도 부탁할게<wait=key><del=this>
+교환해 주시는 건가요?<wait=key><del=this>
+미안하네요…@이런 걸 주시다니…<wait=key><p>이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드립니다<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환해 주실까!<wait=key><del=this>
+호오… 꽤 괜찮은 물건이로군<wait=key><p>어쩔 수 없지! 이것도 주마<wait=key><del=this>
+그럼 다음에 또 만나길 기대하마!<wait=key><del=this>
+교환해 줄 거지?<wait=key><del=this>
+이야, 좋은 물건이구나<wait=key><p>아! 맞다. 이것도 줄게<wait=key><del=this>
+그럼 실례하지<wait=key><del=this>
+교환하자!<wait=key><del=this>
+아싸!<wait=key><p>보너스로 이거 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+오? 교환이로구나!<wait=key><del=this>
+이, 이것은!<wait=key><del=this>
+건강하거라<wait=key><del=this>
+오, 교환이로군?<wait=key><del=this>
+이건 대단한데!<wait=key><p>이것도 주지!<wait=key><del=this>
+또 보자!<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환이냐?<wait=key><del=this>
+이건 설마…!<wait=key><p>어, 어쩔 수 없지@받아라!<wait=key><del=this>
+다음에 보자!<wait=key><del=this>
+이런 때에 교환이라니!<wait=key><del=this>
+이게 뭐야!<wait=key><p>이러면 마치 내가@바가지 씌운 것 같잖아!<wait=key><del=this>
+또 보자고!<wait=key><del=this>
+교환 말이구나? 좋아<wait=key><del=this>
+이런 걸 줘도 괜찮겠어?<wait=key><p>미안하니까 이것도 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+어머, 교환이구나?<wait=key><del=this>
+이거 대단한걸!<wait=key><p>덤으로 이것도 줄게!<wait=key><del=this>
+그럼 다음에 봐!<wait=key><del=this>
+교환이죠?<wait=key><del=this>
+미안해요…@이런 걸 다 주시다니…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드려요<wait=key><del=this>
+교환 말씀이시죠?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+어쩔 수 없네…@교환해 주겠어<wait=key><del=this>
+<type=think>뭐, 뭐야 이게!<wait=key><p>이, 이래가지고는@대등한 교환이 아니잖아…!<wait=key><del=this>
+그럼 실례<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자<wait=key><del=this>
+교환?!<wait=key><del=this>
+아앗!!<wait=key><p>당첨됐으니까 더 줄게!<wait=key><del=this>
+또 만나!<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자꾸나<wait=key><del=this>
+자, 어서 교환하자<wait=key><del=this>
+대단해~!!!<wait=key><p>그러면 이것도 줄게!<wait=key><del=this>
+다음에도 부탁해!<wait=key><del=this>
+교환 말씀이시죠?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+교환이야?<wait=key><del=this>
+이것은…!<wait=key><p>이것도 가져가!<wait=key><del=this>
+그럼 이만…<wait=key><del=this>
+흥! 교환이야?<wait=key><del=this>
+이, 이게 뭐야!<wait=key><p>덤으로 이것도@가지고 가란 말이야!<wait=key><del=this>
+더는 교환 같은 건@하고 싶지 않아! 알겠어?!<wait=key><del=this>
+교환이야모!<wait=key><del=this>
+이건…!<wait=key><p>이것도 줄게모!<wait=key><del=this>
+또 봐모!<wait=key><del=this>
+교환이다모!<wait=key><del=this>
+모모!!<wait=key><p>모모모모모!!<wait=key><del=this>
+다음에도 잘 부탁해모!<wait=key><del=this>
+교환이에요모?<wait=key><del=this>
+대단하네요모!<wait=key><p>이것도 줄게요모!<wait=key><del=this>
+다음에도 잘 부탁드려요모!<wait=key><del=this>
+교환인가요모?<wait=key><del=this>
+이건… 대단해요모!!<wait=key><p>어쩐지 미안해요모…<wait=key><p>그러니까 이거 줄게요모!<wait=key><del=this>
+앞으로도 많이 이용해 주세요모!<wait=key><del=this>
+교환해 주지모!<wait=key><del=this>
+뭐, 뭐냐모!@이 빛은…?<wait=key><p>가보로 삼을 거다모…<wait=key><del=this>
+또 교환해 주겠어모!<wait=key><del=this>
+교환하는 거지모?<wait=key><del=this>
+좋은 물건 받았어모!<wait=key><p>이거 받아모!<wait=key><del=this>
+고맙다모!<wait=key><del=this>
+교환하고 싶어모!<wait=key><del=this>
+이얏호!!<wait=key><p>이거 줄게모!!<wait=key><del=this>
+모모!!<wait=key><del=this>
+교환말이지모?<wait=key><del=this>
+이건 대단하구나모!<wait=key><p>대신에 이 비보를 맡기지모!<wait=key><del=this>
+건강해라모!<wait=key><del=this>
+교환모?!<wait=key><del=this>
+굉장해모!<wait=key><p>이거 줄게모!<wait=key><del=this>
+다음에 봐모!<wait=key><del=this>
+교환 말씀입니까모?<wait=key><del=this>
+훌륭합니다모!<wait=key><p>그러면 이 훌륭한 물건도 드리지요모!<wait=key><del=this>
+실례합니다모!<wait=key><del=this>
+흠! 교환이다모!<wait=key><del=this>
+모?!<wait=key><p>모모모?!<wait=key><p>모모모모모모모모모모!!!!!!<wait=key><del=this>
+흠, 또 보자모!<wait=key><del=this>
+<type=anger>으으! 교환이다모!!<wait=key><del=this>
+<type=anger>킁킁!!!!!!<wait=key><p>이, 이걸 기다렸다모!<wait=key><del=this>
+<type=anger>흐아흐아모!<wait=key><del=this>
+교환이야모!<wait=key><del=this>
+이게 뭐야모?!<wait=key><p>이것도 줄게모!<wait=key><del=this>
+또 봐모!<wait=key><del=this>
+교환이다모!<wait=key><del=this>
+모모!!<wait=key><p>모모모모모!!<wait=key><del=this>
+다음에도 잘 부탁해모!<wait=key><del=this>
+교환이에요모?<wait=key><del=this>
+대단하네요모!<wait=key><p>이것도 줄게요모!<wait=key><del=this>
+다음에도 잘 부탁드려요모!<wait=key><del=this>
+교환인가요모?<wait=key><del=this>
+이건… 대단해요모!!<wait=key><p>어쩐지 미안해요모…<wait=key><p>그러니까 이거 줄게요모!<wait=key><del=this>
+앞으로도 많이 이용해 주세요모!<wait=key><del=this>
+교환해 주지모!<wait=key><del=this>
+뭐, 뭐냐모!@이 빛은…?<wait=key><p>가보로 삼을 거다모…<wait=key><del=this>
+또 교환해 주겠어모!<wait=key><del=this>
+교환하는 거지모?<wait=key><del=this>
+좋은 물건 받았어모!<wait=key><p>이거 받아모!<wait=key><del=this>
+고맙다모!<wait=key><del=this>
+교환하고 싶어모!<wait=key><del=this>
+이얏호!!<wait=key><p>이거 줄게모!!<wait=key><del=this>
+모모!!<wait=key><del=this>
+교환말이지모?<wait=key><del=this>
+이건 대단하구나모!<wait=key><p>대신에 이 비보를 맡기지모!<wait=key><del=this>
+건강해라모!<wait=key><del=this>
+교환모?!<wait=key><del=this>
+굉장해모!<wait=key><p>이거 줄게모!<wait=key><del=this>
+다음에 봐모!<wait=key><del=this>
+교환 말씀입니까모?<wait=key><del=this>
+훌륭합니다모!<wait=key><p>그러면 이 훌륭한 물건도 드리지요모!<wait=key><del=this>
+실례합니다모!<wait=key><del=this>
+흠! 교환이다모!<wait=key><del=this>
+모?!<wait=key><p>모모모?!<wait=key><p>모모모모모모모모모모!!!!!!<wait=key><del=this>
+흠, 또 보자모!<wait=key><del=this>
+<type=anger>으으! 교환이다모!!<wait=key><del=this>
+<type=anger>킁킁!!!!!!<wait=key><p>이, 이걸 기다렸다모!<wait=key><del=this>
+<type=anger>흐아흐아모!<wait=key><del=this>
+교환해 줄 거야?<wait=key><del=this>
+이런 걸 받아도 괜찮을까?<wait=key><p>미안하니까 이것도 줄게<wait=key><del=this>
+또 보자!<wait=key><del=this>
+아… 교환이니?<wait=key><del=this>
+이거 대단한데!<wait=key><p>그렇지…! 이것도 줄게<wait=key><del=this>
+다음에도 부탁할게<wait=key><del=this>
+교환해 주시는 건가요?<wait=key><del=this>
+미안하네요…@이런 걸 주시다니…<wait=key><p>이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드립니다<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환해 주실까!<wait=key><del=this>
+호오… 꽤 괜찮은 물건이로군<wait=key><p>어쩔 수 없지! 이것도 주마<wait=key><del=this>
+그럼 다음에 또 만나길 기대하마!<wait=key><del=this>
+교환해 줄 거지?<wait=key><del=this>
+이야, 좋은 물건이구나<wait=key><p>아! 맞다. 이것도 줄게<wait=key><del=this>
+그럼 실례하지<wait=key><del=this>
+교환하자!<wait=key><del=this>
+아싸!<wait=key><p>보너스로 이거 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+오? 교환이로구나!<wait=key><del=this>
+이, 이것은!<wait=key><del=this>
+건강하거라<wait=key><del=this>
+오, 교환이로군?<wait=key><del=this>
+이건 대단한데!<wait=key><p>이것도 주지!<wait=key><del=this>
+또 보자!<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환이냐?<wait=key><del=this>
+이건 설마…!<wait=key><p>어, 어쩔 수 없지@받아라!<wait=key><del=this>
+다음에 보자!<wait=key><del=this>
+이런 때에 교환이라니!<wait=key><del=this>
+이게 뭐야!<wait=key><p>이러면 마치 내가@바가지 씌운 것 같잖아!<wait=key><del=this>
+또 보자고!<wait=key><del=this>
+교환 말이구나? 좋아<wait=key><del=this>
+이런 걸 줘도 괜찮겠어?<wait=key><p>미안하니까 이것도 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+어머, 교환이구나?<wait=key><del=this>
+이거 대단한걸!<wait=key><p>덤으로 이것도 줄게!<wait=key><del=this>
+그럼 다음에 봐!<wait=key><del=this>
+교환이죠?<wait=key><del=this>
+미안해요…@이런 걸 다 주시다니…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드려요<wait=key><del=this>
+교환 말씀이시죠?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+어쩔 수 없네…@교환해 주겠어<wait=key><del=this>
+<type=think>뭐, 뭐야 이게!<wait=key><p>이, 이래가지고는@대등한 교환이 아니잖아…!<wait=key><del=this>
+그럼 실례<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자<wait=key><del=this>
+교환?!<wait=key><del=this>
+아앗!!<wait=key><p>당첨됐으니까 더 줄게!<wait=key><del=this>
+또 만나!<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자꾸나<wait=key><del=this>
+자, 어서 교환하자<wait=key><del=this>
+대단해~!!!<wait=key><p>그러면 이것도 줄게!<wait=key><del=this>
+다음에도 부탁해!<wait=key><del=this>
+교환 말씀이시죠?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+교환이야?<wait=key><del=this>
+이것은…!<wait=key><p>이것도 가져가!<wait=key><del=this>
+그럼 이만…<wait=key><del=this>
+흥! 교환이야?<wait=key><del=this>
+이, 이게 뭐야!<wait=key><p>덤으로 이것도@가지고 가란 말이야!<wait=key><del=this>
+더는 교환 같은 건@하고 싶지 않아! 알겠어?!<wait=key><del=this>
+교환해 줄 거야?<wait=key><del=this>
+이런 걸 받아도 괜찮을까?<wait=key><p>미안하니까 이것도 줄게<wait=key><del=this>
+또 보자!<wait=key><del=this>
+아… 교환이니?<wait=key><del=this>
+이거 대단한데!<wait=key><p>그렇지…! 이것도 줄게<wait=key><del=this>
+다음에도 부탁할게<wait=key><del=this>
+교환해 주시는 건가요?<wait=key><del=this>
+미안하네요…@이런 걸 주시다니…<wait=key><p>이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드립니다<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환해 주실까!<wait=key><del=this>
+호오… 꽤 괜찮은 물건이로군<wait=key><p>어쩔 수 없지! 이것도 주마<wait=key><del=this>
+그럼 다음에 또 만나길 기대하마!<wait=key><del=this>
+교환해 줄 거지?<wait=key><del=this>
+이야, 좋은 물건이구나<wait=key><p>아! 맞다. 이것도 줄게<wait=key><del=this>
+그럼 실례하지<wait=key><del=this>
+교환하자!<wait=key><del=this>
+아싸!<wait=key><p>보너스로 이거 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+오? 교환이로구나!<wait=key><del=this>
+이, 이것은!<wait=key><del=this>
+건강하거라<wait=key><del=this>
+오, 교환이로군?<wait=key><del=this>
+이건 대단한데!<wait=key><p>이것도 주지!<wait=key><del=this>
+또 보자!<wait=key><del=this>
+어라? 교환인가요?<wait=key><del=this>
+아무리 그래도 이런 물건을@받는 것은 좀…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+그럼 다음에 또…<wait=key><del=this>
+교환이냐?<wait=key><del=this>
+이건 설마…!<wait=key><p>어, 어쩔 수 없지@받아라!<wait=key><del=this>
+다음에 보자!<wait=key><del=this>
+이런 때에 교환이라니!<wait=key><del=this>
+이게 뭐야!<wait=key><p>이러면 마치 내가@바가지 씌운 것 같잖아!<wait=key><del=this>
+또 보자고!<wait=key><del=this>
+교환 말이구나? 좋아<wait=key><del=this>
+이런 걸 줘도 괜찮겠어?<wait=key><p>미안하니까 이것도 줄게!<wait=key><del=this>
+또 봐!<wait=key><del=this>
+어머, 교환이구나?<wait=key><del=this>
+이거 대단한걸!<wait=key><p>덤으로 이것도 줄게!<wait=key><del=this>
+그럼 다음에 봐!<wait=key><del=this>
+교환이군요?<wait=key><del=this>
+미안해요…@이런 걸 다 주시다니…<wait=key><p>그럼 이것도 받아 주세요<wait=key><del=this>
+앞으로도 잘 부탁드려요<wait=key><del=this>
+교환이군요?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+어쩔 수 없네…@교환해 주겠어<wait=key><del=this>
+<type=think>뭐, 뭐야 이게!<wait=key><p>이, 이래가지고는@대등한 교환이 아니잖아…!<wait=key><del=this>
+그럼 실례<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자<wait=key><del=this>
+교환?!<wait=key><del=this>
+아앗!!<wait=key><p>당첨됐으니까 더 줄게!<wait=key><del=this>
+또 만나!<wait=key><del=this>
+교환해 주는 거니?<wait=key><del=this>
+어머!@이런 걸 받다니 미안하구나<wait=key><p>그럼 이것도 줘야겠는걸<wait=key><del=this>
+그러면 또 보자꾸나<wait=key><del=this>
+자, 어서 교환하자<wait=key><del=this>
+대단해~!!!<wait=key><p>그러면 이것도 줄게!<wait=key><del=this>
+다음에도 부탁해!<wait=key><del=this>
+교환 말씀이시죠?<wait=key><del=this>
+어머…@이런 걸 받으면…<wait=key><p>제 마음이 편치 않답니다<wait=key><del=this>
+그럼 실례하겠어요<wait=key><del=this>
+교환이야?<wait=key><del=this>
+이것은…!<wait=key><p>이것도 가져가!<wait=key><del=this>
+그럼 이만…<wait=key><del=this>
+흥! 교환이야?<wait=key><del=this>
+이, 이게 뭐야!<wait=key><p>덤으로 이것도@가지고 가란 말이야!<wait=key><del=this>
+더는 교환 같은 건@하고 싶지 않아! 알겠어?!<wait=key><del=this>
+교환 말인가요?@…어쩔 수 없네요<wait=key><del=this>
+저만 득을 보고 넘어갈 수는 없죠@이걸 가져가세요<wait=key><del=this>
+…다시는 교환을@요구하지 말아 주세요<wait=key><del=this>
+무슨 일이냐?@교환하는 게냐?<wait=key><del=this>
+이거야 원 참으로@대단한 물건들이로구나<wait=key><p>이건 보너스란다<wait=key><del=this>
+건강하거라<wait=key><del=this>
